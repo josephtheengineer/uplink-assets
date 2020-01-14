@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/243979__dingo1__dragon-warrior-loopable.ogg-9a0de01995ac2278332d26b999b6197c.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/engineer/243979__dingo1__dragon-warrior-loopable.ogg"
+dest_files=[ "res://.import/243979__dingo1__dragon-warrior-loopable.ogg-9a0de01995ac2278332d26b999b6197c.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

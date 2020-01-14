@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Green_OnFire_5.ogg-b4ec94fc7bd7a459b930ff68cdf2dcab.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/creatures/Green_OnFire_5.ogg"
+dest_files=[ "res://.import/Green_OnFire_5.ogg-b4ec94fc7bd7a459b930ff68cdf2dcab.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

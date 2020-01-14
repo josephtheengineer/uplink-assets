@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/ambience_cave.ogg-780dd75d637a6c72394ec101e9e4d955.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/ambientloops/ambience_cave.ogg"
+dest_files=[ "res://.import/ambience_cave.ogg-780dd75d637a6c72394ec101e9e4d955.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

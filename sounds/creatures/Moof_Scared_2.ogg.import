@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Moof_Scared_2.ogg-99c92ad74c132a321d5e2b675cf4314f.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/creatures/Moof_Scared_2.ogg"
+dest_files=[ "res://.import/Moof_Scared_2.ogg-99c92ad74c132a321d5e2b675cf4314f.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

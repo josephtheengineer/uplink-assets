@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/181805__klankbeeld__heart-beat-increasing-116642.ogg-56f9a78080863efbb9408c66f7a614a9.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/engineer/181805__klankbeeld__heart-beat-increasing-116642.ogg"
+dest_files=[ "res://.import/181805__klankbeeld__heart-beat-increasing-116642.ogg-56f9a78080863efbb9408c66f7a614a9.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

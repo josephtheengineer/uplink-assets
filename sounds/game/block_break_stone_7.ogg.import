@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/block_break_stone_7.ogg-30c46828f9b2afcf5d684c3236763a9a.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/game/block_break_stone_7.ogg"
+dest_files=[ "res://.import/block_break_stone_7.ogg-30c46828f9b2afcf5d684c3236763a9a.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

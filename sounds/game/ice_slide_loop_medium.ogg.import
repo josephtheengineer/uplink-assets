@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/ice_slide_loop_medium.ogg-ac16a357ee311f54b06551a1ca921084.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/game/ice_slide_loop_medium.ogg"
+dest_files=[ "res://.import/ice_slide_loop_medium.ogg-ac16a357ee311f54b06551a1ca921084.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

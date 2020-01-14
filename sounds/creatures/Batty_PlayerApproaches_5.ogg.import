@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Batty_PlayerApproaches_5.ogg-55e16728d5833dd4ade29e3488be13f7.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/creatures/Batty_PlayerApproaches_5.ogg"
+dest_files=[ "res://.import/Batty_PlayerApproaches_5.ogg-55e16728d5833dd4ade29e3488be13f7.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

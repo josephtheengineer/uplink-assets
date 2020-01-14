@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/river_marsh_badlands_ambience.ogg-6b901843f03ef77aa0770e487b209790.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/new_sound/river_marsh_badlands_ambience.ogg"
+dest_files=[ "res://.import/river_marsh_badlands_ambience.ogg-6b901843f03ef77aa0770e487b209790.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

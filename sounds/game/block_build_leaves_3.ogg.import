@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/block_build_leaves_3.ogg-6a711b6b2b5b0064f63ae77a6f82dcaa.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/game/block_build_leaves_3.ogg"
+dest_files=[ "res://.import/block_build_leaves_3.ogg-6a711b6b2b5b0064f63ae77a6f82dcaa.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

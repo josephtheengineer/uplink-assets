@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Batty_Relieved_1.ogg-6c70d0073860071299546db479ecd74d.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/creatures/Batty_Relieved_1.ogg"
+dest_files=[ "res://.import/Batty_Relieved_1.ogg-6c70d0073860071299546db479ecd74d.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

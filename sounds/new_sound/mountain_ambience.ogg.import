@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/mountain_ambience.ogg-993192554b5b6023ba28d334c0e64735.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/new_sound/mountain_ambience.ogg"
+dest_files=[ "res://.import/mountain_ambience.ogg-993192554b5b6023ba28d334c0e64735.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

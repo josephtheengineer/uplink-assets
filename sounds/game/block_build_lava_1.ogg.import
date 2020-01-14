@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/block_build_lava_1.ogg-4c25f01ba5c704b893ab7ec53c80f195.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/game/block_build_lava_1.ogg"
+dest_files=[ "res://.import/block_build_lava_1.ogg-4c25f01ba5c704b893ab7ec53c80f195.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

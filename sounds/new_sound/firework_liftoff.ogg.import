@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/firework_liftoff.ogg-c7790a7d689c4e699818af153c328326.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/new_sound/firework_liftoff.ogg"
+dest_files=[ "res://.import/firework_liftoff.ogg-c7790a7d689c4e699818af153c328326.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Green_Relieved_5.ogg-2ec6d86ea0b0e919e86f1591592a1122.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/creatures/Green_Relieved_5.ogg"
+dest_files=[ "res://.import/Green_Relieved_5.ogg-2ec6d86ea0b0e919e86f1591592a1122.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

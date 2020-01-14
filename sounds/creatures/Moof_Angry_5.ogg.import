@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Moof_Angry_5.ogg-a07e1b5bef76f4dc6c809fcb37157e2c.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/creatures/Moof_Angry_5.ogg"
+dest_files=[ "res://.import/Moof_Angry_5.ogg-a07e1b5bef76f4dc6c809fcb37157e2c.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

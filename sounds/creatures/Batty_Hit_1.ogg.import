@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Batty_Hit_1.ogg-1e7f27c653a235ee8e93738894dfc3c9.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/creatures/Batty_Hit_1.ogg"
+dest_files=[ "res://.import/Batty_Hit_1.ogg-1e7f27c653a235ee8e93738894dfc3c9.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

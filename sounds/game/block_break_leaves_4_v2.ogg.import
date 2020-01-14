@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/block_break_leaves_4_v2.ogg-8f1cb0197c57515a5f82fa5993426eb7.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/game/block_break_leaves_4_v2.ogg"
+dest_files=[ "res://.import/block_break_leaves_4_v2.ogg-8f1cb0197c57515a5f82fa5993426eb7.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

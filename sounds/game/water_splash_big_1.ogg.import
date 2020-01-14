@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/water_splash_big_1.ogg-d47eaff988d0b67b9ac9bf3ec117bd39.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/game/water_splash_big_1.ogg"
+dest_files=[ "res://.import/water_splash_big_1.ogg-d47eaff988d0b67b9ac9bf3ec117bd39.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

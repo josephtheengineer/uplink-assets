@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/oasis_ambience.ogg-a89ad20ae4a9a68142e2fd46d20fe276.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/new_sound/oasis_ambience.ogg"
+dest_files=[ "res://.import/oasis_ambience.ogg-a89ad20ae4a9a68142e2fd46d20fe276.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

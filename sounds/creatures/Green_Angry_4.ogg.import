@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Green_Angry_4.ogg-90c480efa725a1864839be463035e167.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/creatures/Green_Angry_4.ogg"
+dest_files=[ "res://.import/Green_Angry_4.ogg-90c480efa725a1864839be463035e167.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

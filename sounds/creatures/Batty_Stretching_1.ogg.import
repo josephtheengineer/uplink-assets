@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Batty_Stretching_1.ogg-4c2edb6795a051d10457c9bf19f8e80d.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/creatures/Batty_Stretching_1.ogg"
+dest_files=[ "res://.import/Batty_Stretching_1.ogg-4c2edb6795a051d10457c9bf19f8e80d.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

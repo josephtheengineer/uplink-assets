@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Stumpy_Idle_3.ogg-5ecab5d05a1d06a8a3fc5d9d2dd3d3db.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/creatures/Stumpy_Idle_3.ogg"
+dest_files=[ "res://.import/Stumpy_Idle_3.ogg-5ecab5d05a1d06a8a3fc5d9d2dd3d3db.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

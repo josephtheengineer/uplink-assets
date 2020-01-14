@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Nergle_Angry_5.ogg-3640c644973367430b048e7d87c0a07d.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/creatures/Nergle_Angry_5.ogg"
+dest_files=[ "res://.import/Nergle_Angry_5.ogg-3640c644973367430b048e7d87c0a07d.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

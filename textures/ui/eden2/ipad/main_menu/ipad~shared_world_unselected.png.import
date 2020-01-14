@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/ipad~shared_world_unselected.png-1a46b3984e014baf05b86d1dbfb08428.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://assets/textures/ui/eden2/ipad/main_menu/ipad~shared_world_unselected.png"
+dest_files=[ "res://.import/ipad~shared_world_unselected.png-1a46b3984e014baf05b86d1dbfb08428.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

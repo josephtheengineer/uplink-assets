@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Batty_OnFire_1.ogg-20f67568f113755b81921d3b2db31164.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/creatures/Batty_OnFire_1.ogg"
+dest_files=[ "res://.import/Batty_OnFire_1.ogg-20f67568f113755b81921d3b2db31164.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/trampoline_bounce_1_v2.ogg-1334e98e3d26a7e00e7f437e8c1d4abf.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/game/trampoline_bounce_1_v2.ogg"
+dest_files=[ "res://.import/trampoline_bounce_1_v2.ogg-1334e98e3d26a7e00e7f437e8c1d4abf.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

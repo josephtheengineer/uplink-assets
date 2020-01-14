@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/ice_slide_loop_slow_v2.ogg-001e9f2beda7cdf6a954d86fdcc3d93f.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/game/ice_slide_loop_slow_v2.ogg"
+dest_files=[ "res://.import/ice_slide_loop_slow_v2.ogg-001e9f2beda7cdf6a954d86fdcc3d93f.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

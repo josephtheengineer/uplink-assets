@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Moof_PlayerApproaches_2.ogg-0295ed786832aca897bccb1a5cc2f3fd.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/creatures/Moof_PlayerApproaches_2.ogg"
+dest_files=[ "res://.import/Moof_PlayerApproaches_2.ogg-0295ed786832aca897bccb1a5cc2f3fd.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

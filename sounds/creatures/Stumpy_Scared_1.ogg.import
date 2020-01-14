@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Stumpy_Scared_1.ogg-c1b7d7a12d496f8169054ef41eccb9c7.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/creatures/Stumpy_Scared_1.ogg"
+dest_files=[ "res://.import/Stumpy_Scared_1.ogg-c1b7d7a12d496f8169054ef41eccb9c7.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

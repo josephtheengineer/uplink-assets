@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/tnt_explode_dirt.ogg-191c46576e3daf2afe88f7751cd85f15.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/new_sound/tnt_explode_dirt.ogg"
+dest_files=[ "res://.import/tnt_explode_dirt.ogg-191c46576e3daf2afe88f7751cd85f15.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

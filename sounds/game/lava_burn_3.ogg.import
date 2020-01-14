@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/lava_burn_3.ogg-82ea4ec09831314c04db508312db5dd1.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/game/lava_burn_3.ogg"
+dest_files=[ "res://.import/lava_burn_3.ogg-82ea4ec09831314c04db508312db5dd1.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

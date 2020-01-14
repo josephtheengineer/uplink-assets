@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Stumpy_OnFire_4.ogg-9e7c562ed89a935f9be21e7b9d07d10d.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/creatures/Stumpy_OnFire_4.ogg"
+dest_files=[ "res://.import/Stumpy_OnFire_4.ogg-9e7c562ed89a935f9be21e7b9d07d10d.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

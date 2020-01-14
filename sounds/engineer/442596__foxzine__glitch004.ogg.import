@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/442596__foxzine__glitch004.ogg-24704630ff05b0b81a5b9e51eb4e6805.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/engineer/442596__foxzine__glitch004.ogg"
+dest_files=[ "res://.import/442596__foxzine__glitch004.ogg-24704630ff05b0b81a5b9e51eb4e6805.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

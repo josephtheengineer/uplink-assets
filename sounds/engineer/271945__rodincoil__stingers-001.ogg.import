@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/271945__rodincoil__stingers-001.ogg-e1a6f4c3e6756fe704ea1f777f3d985c.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/engineer/271945__rodincoil__stingers-001.ogg"
+dest_files=[ "res://.import/271945__rodincoil__stingers-001.ogg-e1a6f4c3e6756fe704ea1f777f3d985c.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

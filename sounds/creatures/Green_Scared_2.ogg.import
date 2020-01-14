@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Green_Scared_2.ogg-4c477fa13f205442175d2b3f326e1d8c.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/creatures/Green_Scared_2.ogg"
+dest_files=[ "res://.import/Green_Scared_2.ogg-4c477fa13f205442175d2b3f326e1d8c.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

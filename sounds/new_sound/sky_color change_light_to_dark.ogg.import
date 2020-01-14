@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/sky_color change_light_to_dark.ogg-05eae85d52adbb65b7fa13e0695f17ba.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/new_sound/sky_color change_light_to_dark.ogg"
+dest_files=[ "res://.import/sky_color change_light_to_dark.ogg-05eae85d52adbb65b7fa13e0695f17ba.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

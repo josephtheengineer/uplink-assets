@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/reverlands_ambience.ogg-74cfb1578e74503d3f400cf279dd43c8.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/new_sound/reverlands_ambience.ogg"
+dest_files=[ "res://.import/reverlands_ambience.ogg-74cfb1578e74503d3f400cf279dd43c8.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

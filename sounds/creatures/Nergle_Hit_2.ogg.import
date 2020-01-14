@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Nergle_Hit_2.ogg-7e9cde4e9f32146cef4dc640ceb5c3f6.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/creatures/Nergle_Hit_2.ogg"
+dest_files=[ "res://.import/Nergle_Hit_2.ogg-7e9cde4e9f32146cef4dc640ceb5c3f6.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

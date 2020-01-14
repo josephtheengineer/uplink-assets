@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Green_Idle_4.ogg-5bb162a582c1c461294e9baa43183459.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/creatures/Green_Idle_4.ogg"
+dest_files=[ "res://.import/Green_Idle_4.ogg-5bb162a582c1c461294e9baa43183459.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

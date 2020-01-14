@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/mode_selection_1.ogg-75ec12e85edea00a9368b481dba0c40a.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/game/mode_selection_1.ogg"
+dest_files=[ "res://.import/mode_selection_1.ogg-75ec12e85edea00a9368b481dba0c40a.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

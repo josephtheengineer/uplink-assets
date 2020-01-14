@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Nergle_Walking_2.ogg-d667a479f759f9b9a1507931a66835b5.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/creatures/Nergle_Walking_2.ogg"
+dest_files=[ "res://.import/Nergle_Walking_2.ogg-d667a479f759f9b9a1507931a66835b5.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/380315__unhacker__scifi-microbrute-15.ogg-31f783c4dc6c9d466efce290fce653d5.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/engineer/380315__unhacker__scifi-microbrute-15.ogg"
+dest_files=[ "res://.import/380315__unhacker__scifi-microbrute-15.ogg-31f783c4dc6c9d466efce290fce653d5.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

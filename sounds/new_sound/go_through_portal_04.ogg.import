@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/go_through_portal_04.ogg-ee5ce6448709619aaefa5c6eb16c6247.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/new_sound/go_through_portal_04.ogg"
+dest_files=[ "res://.import/go_through_portal_04.ogg-ee5ce6448709619aaefa5c6eb16c6247.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

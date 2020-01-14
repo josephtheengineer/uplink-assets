@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/death_by_tnt_03.ogg-432f0037656c850f72c88cb148cc2ff3.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/new_sound/death_by_tnt_03.ogg"
+dest_files=[ "res://.import/death_by_tnt_03.ogg-432f0037656c850f72c88cb148cc2ff3.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/creature_idle.ogg-f5fa8405968ac9c3b1deddba7679e9ee.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/new_sound/creature_idle.ogg"
+dest_files=[ "res://.import/creature_idle.ogg-f5fa8405968ac9c3b1deddba7679e9ee.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
