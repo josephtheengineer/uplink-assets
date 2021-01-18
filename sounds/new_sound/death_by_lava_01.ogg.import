@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/death_by_lava_01.ogg-6d37beb22ead9cc6b00065841009efdb.oggstr"
+path="res://.import/death_by_lava_01.ogg-b5454da3a473f9e67ce5c63c447674ca.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/new_sound/death_by_lava_01.ogg"
-dest_files=[ "res://.import/death_by_lava_01.ogg-6d37beb22ead9cc6b00065841009efdb.oggstr" ]
+source_file="res://aux/assets/sounds/new_sound/death_by_lava_01.ogg"
+dest_files=[ "res://.import/death_by_lava_01.ogg-b5454da3a473f9e67ce5c63c447674ca.oggstr" ]
 
 [params]
 

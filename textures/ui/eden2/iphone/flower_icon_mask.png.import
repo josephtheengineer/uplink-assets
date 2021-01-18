@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/flower_icon_mask.png-0d0e8a59e83134978840269735921e65.stex"
+path="res://.import/flower_icon_mask.png-e50619752d656f240d345225a9b647c8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden2/iphone/flower_icon_mask.png"
-dest_files=[ "res://.import/flower_icon_mask.png-0d0e8a59e83134978840269735921e65.stex" ]
+source_file="res://aux/assets/textures/ui/eden2/iphone/flower_icon_mask.png"
+dest_files=[ "res://.import/flower_icon_mask.png-e50619752d656f240d345225a9b647c8.stex" ]
 
 [params]
 

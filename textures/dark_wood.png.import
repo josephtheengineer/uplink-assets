@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/dark_wood.png-3bf7101242072c541ed972200cd016db.stex"
+path="res://.import/dark_wood.png-1f00e3241fbd95732c7c5927b2dfd06e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/dark_wood.png"
-dest_files=[ "res://.import/dark_wood.png-3bf7101242072c541ed972200cd016db.stex" ]
+source_file="res://aux/assets/textures/dark_wood.png"
+dest_files=[ "res://.import/dark_wood.png-1f00e3241fbd95732c7c5927b2dfd06e.stex" ]
 
 [params]
 

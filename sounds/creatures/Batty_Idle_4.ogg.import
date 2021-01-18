@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/Batty_Idle_4.ogg-d82f80f85cadf29d44998a2cbe9e18ad.oggstr"
+path="res://.import/Batty_Idle_4.ogg-603093c9ab881e9c7ecf9a11cb341774.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/creatures/Batty_Idle_4.ogg"
-dest_files=[ "res://.import/Batty_Idle_4.ogg-d82f80f85cadf29d44998a2cbe9e18ad.oggstr" ]
+source_file="res://aux/assets/sounds/creatures/Batty_Idle_4.ogg"
+dest_files=[ "res://.import/Batty_Idle_4.ogg-603093c9ab881e9c7ecf9a11cb341774.oggstr" ]
 
 [params]
 

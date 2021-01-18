@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/ice_slide_turn_2.ogg-c94b2027f70e5d8426e67bb5f99b75e2.oggstr"
+path="res://.import/ice_slide_turn_2.ogg-66dcf2acaf97fba2671eacff17979d9e.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/game/ice_slide_turn_2.ogg"
-dest_files=[ "res://.import/ice_slide_turn_2.ogg-c94b2027f70e5d8426e67bb5f99b75e2.oggstr" ]
+source_file="res://aux/assets/sounds/game/ice_slide_turn_2.ogg"
+dest_files=[ "res://.import/ice_slide_turn_2.ogg-66dcf2acaf97fba2671eacff17979d9e.oggstr" ]
 
 [params]
 

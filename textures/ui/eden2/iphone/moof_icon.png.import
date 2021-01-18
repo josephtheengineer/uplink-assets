@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/moof_icon.png-46e6f624209423b96e7643145112cdda.stex"
+path="res://.import/moof_icon.png-aab3fbe6557bcf008176fe0e76b91da7.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden2/iphone/moof_icon.png"
-dest_files=[ "res://.import/moof_icon.png-46e6f624209423b96e7643145112cdda.stex" ]
+source_file="res://aux/assets/textures/ui/eden2/iphone/moof_icon.png"
+dest_files=[ "res://.import/moof_icon.png-aab3fbe6557bcf008176fe0e76b91da7.stex" ]
 
 [params]
 

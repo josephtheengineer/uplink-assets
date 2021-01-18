@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bedrock.png-8e02dc5885171d8b325bb1d753f9f338.stex"
+path="res://.import/bedrock.png-fe9a16b03d31d809296853e03d1fc40c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/bedrock.png"
-dest_files=[ "res://.import/bedrock.png-8e02dc5885171d8b325bb1d753f9f338.stex" ]
+source_file="res://aux/assets/textures/bedrock.png"
+dest_files=[ "res://.import/bedrock.png-fe9a16b03d31d809296853e03d1fc40c.stex" ]
 
 [params]
 

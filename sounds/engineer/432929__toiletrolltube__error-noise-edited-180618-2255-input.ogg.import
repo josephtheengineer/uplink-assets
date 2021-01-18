@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/432929__toiletrolltube__error-noise-edited-180618-2255-input.ogg-e36618ce756d1204c5bbd04223ea6fa6.oggstr"
+path="res://.import/432929__toiletrolltube__error-noise-edited-180618-2255-input.ogg-4386ee599d8e49424b704466d9aed1ea.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/engineer/432929__toiletrolltube__error-noise-edited-180618-2255-input.ogg"
-dest_files=[ "res://.import/432929__toiletrolltube__error-noise-edited-180618-2255-input.ogg-e36618ce756d1204c5bbd04223ea6fa6.oggstr" ]
+source_file="res://aux/assets/sounds/engineer/432929__toiletrolltube__error-noise-edited-180618-2255-input.ogg"
+dest_files=[ "res://.import/432929__toiletrolltube__error-noise-edited-180618-2255-input.ogg-4386ee599d8e49424b704466d9aed1ea.oggstr" ]
 
 [params]
 

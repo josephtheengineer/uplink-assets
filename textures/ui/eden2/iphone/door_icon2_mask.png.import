@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/door_icon2_mask.png-c9e37f925f529507a8119d0cb2086867.stex"
+path="res://.import/door_icon2_mask.png-84b5c5e095769382708254f6913dd43a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden2/iphone/door_icon2_mask.png"
-dest_files=[ "res://.import/door_icon2_mask.png-c9e37f925f529507a8119d0cb2086867.stex" ]
+source_file="res://aux/assets/textures/ui/eden2/iphone/door_icon2_mask.png"
+dest_files=[ "res://.import/door_icon2_mask.png-84b5c5e095769382708254f6913dd43a.stex" ]
 
 [params]
 

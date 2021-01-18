@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/grasslands_ambience.ogg-a8ce9c4f0b48f9bda6313fb7af15437a.oggstr"
+path="res://.import/grasslands_ambience.ogg-b7ed0f2b6078ce62e7bbfaa7f68de643.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/new_sound/grasslands_ambience.ogg"
-dest_files=[ "res://.import/grasslands_ambience.ogg-a8ce9c4f0b48f9bda6313fb7af15437a.oggstr" ]
+source_file="res://aux/assets/sounds/new_sound/grasslands_ambience.ogg"
+dest_files=[ "res://.import/grasslands_ambience.ogg-b7ed0f2b6078ce62e7bbfaa7f68de643.oggstr" ]
 
 [params]
 

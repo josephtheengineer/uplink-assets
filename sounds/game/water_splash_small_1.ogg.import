@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/water_splash_small_1.ogg-ca4dd1491bfd488820c2ab1d474e6323.oggstr"
+path="res://.import/water_splash_small_1.ogg-7c8e8a2b970764a8d0d868fe08c90023.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/game/water_splash_small_1.ogg"
-dest_files=[ "res://.import/water_splash_small_1.ogg-ca4dd1491bfd488820c2ab1d474e6323.oggstr" ]
+source_file="res://aux/assets/sounds/game/water_splash_small_1.ogg"
+dest_files=[ "res://.import/water_splash_small_1.ogg-7c8e8a2b970764a8d0d868fe08c90023.oggstr" ]
 
 [params]
 

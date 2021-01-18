@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/ambience_nearby_portal.ogg-c086933fc0edc93847bc3ae9f97e293b.oggstr"
+path="res://.import/ambience_nearby_portal.ogg-1c4aa938c2a0c2b3fef609df8da061b7.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/new_sound/ambience_nearby_portal.ogg"
-dest_files=[ "res://.import/ambience_nearby_portal.ogg-c086933fc0edc93847bc3ae9f97e293b.oggstr" ]
+source_file="res://aux/assets/sounds/new_sound/ambience_nearby_portal.ogg"
+dest_files=[ "res://.import/ambience_nearby_portal.ogg-1c4aa938c2a0c2b3fef609df8da061b7.oggstr" ]
 
 [params]
 

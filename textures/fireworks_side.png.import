@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/fireworks_side.png-d6b966cfdfe6934d63ca10a6f9668adc.stex"
+path="res://.import/fireworks_side.png-41139e4dcbb925358e29f2d005322408.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/fireworks_side.png"
-dest_files=[ "res://.import/fireworks_side.png-d6b966cfdfe6934d63ca10a6f9668adc.stex" ]
+source_file="res://aux/assets/textures/fireworks_side.png"
+dest_files=[ "res://.import/fireworks_side.png-41139e4dcbb925358e29f2d005322408.stex" ]
 
 [params]
 

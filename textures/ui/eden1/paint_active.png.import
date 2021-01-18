@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/paint_active.png-9ea0b132adf28ed504fa4884d91e7f18.stex"
+path="res://.import/paint_active.png-7e9de58897289b9d065a4f208aa1e255.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden1/paint_active.png"
-dest_files=[ "res://.import/paint_active.png-9ea0b132adf28ed504fa4884d91e7f18.stex" ]
+source_file="res://aux/assets/textures/ui/eden1/paint_active.png"
+dest_files=[ "res://.import/paint_active.png-7e9de58897289b9d065a4f208aa1e255.stex" ]
 
 [params]
 

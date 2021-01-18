@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/Green_Stretching_1.ogg-2686290223a8b3eba4a6c1a5bc8778a7.oggstr"
+path="res://.import/Green_Stretching_1.ogg-27ec95bce6565b12cff8e2d8308f860d.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/creatures/Green_Stretching_1.ogg"
-dest_files=[ "res://.import/Green_Stretching_1.ogg-2686290223a8b3eba4a6c1a5bc8778a7.oggstr" ]
+source_file="res://aux/assets/sounds/creatures/Green_Stretching_1.ogg"
+dest_files=[ "res://.import/Green_Stretching_1.ogg-27ec95bce6565b12cff8e2d8308f860d.oggstr" ]
 
 [params]
 

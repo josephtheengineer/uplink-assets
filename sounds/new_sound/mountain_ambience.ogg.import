@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/mountain_ambience.ogg-993192554b5b6023ba28d334c0e64735.oggstr"
+path="res://.import/mountain_ambience.ogg-8798feddb1f20f3ca1ff09a15e487b08.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/new_sound/mountain_ambience.ogg"
-dest_files=[ "res://.import/mountain_ambience.ogg-993192554b5b6023ba28d334c0e64735.oggstr" ]
+source_file="res://aux/assets/sounds/new_sound/mountain_ambience.ogg"
+dest_files=[ "res://.import/mountain_ambience.ogg-8798feddb1f20f3ca1ff09a15e487b08.oggstr" ]
 
 [params]
 

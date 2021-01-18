@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/Stumpy_Scared_4.ogg-ce4ce00d870df61bdbfdcaeaddae3d76.oggstr"
+path="res://.import/Stumpy_Scared_4.ogg-0182aff7043da218682f22bd354b730e.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/creatures/Stumpy_Scared_4.ogg"
-dest_files=[ "res://.import/Stumpy_Scared_4.ogg-ce4ce00d870df61bdbfdcaeaddae3d76.oggstr" ]
+source_file="res://aux/assets/sounds/creatures/Stumpy_Scared_4.ogg"
+dest_files=[ "res://.import/Stumpy_Scared_4.ogg-0182aff7043da218682f22bd354b730e.oggstr" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ipad~sphere_map.png-69e3aa3ef73e44b28d7bba0ab05771c5.stex"
+path="res://.import/ipad~sphere_map.png-0d715a1c09c2f87d0b4ed4a5817568a4.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ipad~sphere_map.png"
-dest_files=[ "res://.import/ipad~sphere_map.png-69e3aa3ef73e44b28d7bba0ab05771c5.stex" ]
+source_file="res://aux/assets/textures/ipad~sphere_map.png"
+dest_files=[ "res://.import/ipad~sphere_map.png-0d715a1c09c2f87d0b4ed4a5817568a4.stex" ]
 
 [params]
 

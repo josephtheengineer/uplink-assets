@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/Green_Angry_3.ogg-7c06d06a200a677b44f04aa75b3aae1f.oggstr"
+path="res://.import/Green_Angry_3.ogg-7ca02647ba61b06c64eeefcf4acec931.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/creatures/Green_Angry_3.ogg"
-dest_files=[ "res://.import/Green_Angry_3.ogg-7c06d06a200a677b44f04aa75b3aae1f.oggstr" ]
+source_file="res://aux/assets/sounds/creatures/Green_Angry_3.ogg"
+dest_files=[ "res://.import/Green_Angry_3.ogg-7ca02647ba61b06c64eeefcf4acec931.oggstr" ]
 
 [params]
 

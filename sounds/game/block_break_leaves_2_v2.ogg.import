@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/block_break_leaves_2_v2.ogg-572bb96c86f87d214c9aeba1c074b1ab.oggstr"
+path="res://.import/block_break_leaves_2_v2.ogg-5d5c15edc99b3d8dd3cdb3de556f74c3.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/game/block_break_leaves_2_v2.ogg"
-dest_files=[ "res://.import/block_break_leaves_2_v2.ogg-572bb96c86f87d214c9aeba1c074b1ab.oggstr" ]
+source_file="res://aux/assets/sounds/game/block_break_leaves_2_v2.ogg"
+dest_files=[ "res://.import/block_break_leaves_2_v2.ogg-5d5c15edc99b3d8dd3cdb3de556f74c3.oggstr" ]
 
 [params]
 

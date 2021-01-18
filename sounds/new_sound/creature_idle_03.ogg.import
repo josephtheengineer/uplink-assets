@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/creature_idle_03.ogg-ae34c14607b169b5113ce0d76bb7b975.oggstr"
+path="res://.import/creature_idle_03.ogg-5f96521931301f7ba0b2576b11e016a6.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/new_sound/creature_idle_03.ogg"
-dest_files=[ "res://.import/creature_idle_03.ogg-ae34c14607b169b5113ce0d76bb7b975.oggstr" ]
+source_file="res://aux/assets/sounds/new_sound/creature_idle_03.ogg"
+dest_files=[ "res://.import/creature_idle_03.ogg-5f96521931301f7ba0b2576b11e016a6.oggstr" ]
 
 [params]
 

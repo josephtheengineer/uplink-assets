@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/firework_liftoff.ogg-c7790a7d689c4e699818af153c328326.oggstr"
+path="res://.import/firework_liftoff.ogg-709cf453123fc97c73c49390be0d9742.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/new_sound/firework_liftoff.ogg"
-dest_files=[ "res://.import/firework_liftoff.ogg-c7790a7d689c4e699818af153c328326.oggstr" ]
+source_file="res://aux/assets/sounds/new_sound/firework_liftoff.ogg"
+dest_files=[ "res://.import/firework_liftoff.ogg-709cf453123fc97c73c49390be0d9742.oggstr" ]
 
 [params]
 

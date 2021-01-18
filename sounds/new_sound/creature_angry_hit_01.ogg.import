@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/creature_angry_hit_01.ogg-65a27ee5f160097e5ece785cc9be8331.oggstr"
+path="res://.import/creature_angry_hit_01.ogg-9cc0f66fff05ef3198cdf3dc8770fe03.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/new_sound/creature_angry_hit_01.ogg"
-dest_files=[ "res://.import/creature_angry_hit_01.ogg-65a27ee5f160097e5ece785cc9be8331.oggstr" ]
+source_file="res://aux/assets/sounds/new_sound/creature_angry_hit_01.ogg"
+dest_files=[ "res://.import/creature_angry_hit_01.ogg-9cc0f66fff05ef3198cdf3dc8770fe03.oggstr" ]
 
 [params]
 

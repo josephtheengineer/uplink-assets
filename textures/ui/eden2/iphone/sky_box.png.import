@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/sky_box.png-394e34c6df0861b4c30b9375f933cedc.stex"
+path="res://.import/sky_box.png-eba95aa2d916783ab9c3767cc1e4a116.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden2/iphone/sky_box.png"
-dest_files=[ "res://.import/sky_box.png-394e34c6df0861b4c30b9375f933cedc.stex" ]
+source_file="res://aux/assets/textures/ui/eden2/iphone/sky_box.png"
+dest_files=[ "res://.import/sky_box.png-eba95aa2d916783ab9c3767cc1e4a116.stex" ]
 
 [params]
 

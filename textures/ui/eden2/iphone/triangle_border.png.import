@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/triangle_border.png-8cad2b75f9b69e6c180227b4d4e937cd.stex"
+path="res://.import/triangle_border.png-d769cb7e44343b3e13ec2063a71c00aa.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden2/iphone/triangle_border.png"
-dest_files=[ "res://.import/triangle_border.png-8cad2b75f9b69e6c180227b4d4e937cd.stex" ]
+source_file="res://aux/assets/textures/ui/eden2/iphone/triangle_border.png"
+dest_files=[ "res://.import/triangle_border.png-d769cb7e44343b3e13ec2063a71c00aa.stex" ]
 
 [params]
 

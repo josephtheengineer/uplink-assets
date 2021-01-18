@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/Stumpy_Relieved_2.ogg-a2200d1850e59f45cc944bcee8610b86.oggstr"
+path="res://.import/Stumpy_Relieved_2.ogg-ca9894726c7d2e461a621dbb4d0a0883.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/creatures/Stumpy_Relieved_2.ogg"
-dest_files=[ "res://.import/Stumpy_Relieved_2.ogg-a2200d1850e59f45cc944bcee8610b86.oggstr" ]
+source_file="res://aux/assets/sounds/creatures/Stumpy_Relieved_2.ogg"
+dest_files=[ "res://.import/Stumpy_Relieved_2.ogg-ca9894726c7d2e461a621dbb4d0a0883.oggstr" ]
 
 [params]
 

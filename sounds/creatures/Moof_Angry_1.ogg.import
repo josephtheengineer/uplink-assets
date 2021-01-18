@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/Moof_Angry_1.ogg-c66aeb3d6403735e6568db1abcd37494.oggstr"
+path="res://.import/Moof_Angry_1.ogg-83f7f0916a0b15f1eefaf62d4c9cc3e3.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/creatures/Moof_Angry_1.ogg"
-dest_files=[ "res://.import/Moof_Angry_1.ogg-c66aeb3d6403735e6568db1abcd37494.oggstr" ]
+source_file="res://aux/assets/sounds/creatures/Moof_Angry_1.ogg"
+dest_files=[ "res://.import/Moof_Angry_1.ogg-83f7f0916a0b15f1eefaf62d4c9cc3e3.oggstr" ]
 
 [params]
 

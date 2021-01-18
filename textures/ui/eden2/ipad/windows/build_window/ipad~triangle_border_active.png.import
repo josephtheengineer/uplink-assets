@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ipad~triangle_border_active.png-d381907bde99a0a8815b6d0fe74fd4f2.stex"
+path="res://.import/ipad~triangle_border_active.png-b85925e3658db94f563ef091cb087a9e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden2/ipad/windows/build_window/ipad~triangle_border_active.png"
-dest_files=[ "res://.import/ipad~triangle_border_active.png-d381907bde99a0a8815b6d0fe74fd4f2.stex" ]
+source_file="res://aux/assets/textures/ui/eden2/ipad/windows/build_window/ipad~triangle_border_active.png"
+dest_files=[ "res://.import/ipad~triangle_border_active.png-b85925e3658db94f563ef091cb087a9e.stex" ]
 
 [params]
 

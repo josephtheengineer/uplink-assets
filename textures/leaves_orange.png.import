@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/leaves_orange.png-27c8c3a2145a14385a05aa4480fba774.stex"
+path="res://.import/leaves_orange.png-adbbe5ed27bf1729104ac693cabb93a7.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/leaves_orange.png"
-dest_files=[ "res://.import/leaves_orange.png-27c8c3a2145a14385a05aa4480fba774.stex" ]
+source_file="res://aux/assets/textures/leaves_orange.png"
+dest_files=[ "res://.import/leaves_orange.png-adbbe5ed27bf1729104ac693cabb93a7.stex" ]
 
 [params]
 

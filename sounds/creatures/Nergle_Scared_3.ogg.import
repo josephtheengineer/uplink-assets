@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/Nergle_Scared_3.ogg-8c6a1644d0a7eda8605d492190184a70.oggstr"
+path="res://.import/Nergle_Scared_3.ogg-2dfda0be519361d5c6f7b082f5e8a034.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/creatures/Nergle_Scared_3.ogg"
-dest_files=[ "res://.import/Nergle_Scared_3.ogg-8c6a1644d0a7eda8605d492190184a70.oggstr" ]
+source_file="res://aux/assets/sounds/creatures/Nergle_Scared_3.ogg"
+dest_files=[ "res://.import/Nergle_Scared_3.ogg-2dfda0be519361d5c6f7b082f5e8a034.oggstr" ]
 
 [params]
 

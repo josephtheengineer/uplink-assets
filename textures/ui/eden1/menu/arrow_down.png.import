@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/arrow_down.png-1d40bf3776116e60e07441721bf9da44.stex"
+path="res://.import/arrow_down.png-68d9ef84ab30167e15148c947f3d9628.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden1/menu/arrow_down.png"
-dest_files=[ "res://.import/arrow_down.png-1d40bf3776116e60e07441721bf9da44.stex" ]
+source_file="res://aux/assets/textures/ui/eden1/menu/arrow_down.png"
+dest_files=[ "res://.import/arrow_down.png-68d9ef84ab30167e15148c947f3d9628.stex" ]
 
 [params]
 

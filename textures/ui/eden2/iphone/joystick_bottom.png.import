@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/joystick_bottom.png-fecf653f09aa0471ff8212dea40ad3c7.stex"
+path="res://.import/joystick_bottom.png-a721d8a093abef137692016611987796.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden2/iphone/joystick_bottom.png"
-dest_files=[ "res://.import/joystick_bottom.png-fecf653f09aa0471ff8212dea40ad3c7.stex" ]
+source_file="res://aux/assets/textures/ui/eden2/iphone/joystick_bottom.png"
+dest_files=[ "res://.import/joystick_bottom.png-a721d8a093abef137692016611987796.stex" ]
 
 [params]
 

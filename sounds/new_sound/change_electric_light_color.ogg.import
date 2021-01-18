@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/change_electric_light_color.ogg-fd0409546718bb40eccbdbdafb80cb18.oggstr"
+path="res://.import/change_electric_light_color.ogg-c83470fee4f01c401a4a11e31625ff34.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/new_sound/change_electric_light_color.ogg"
-dest_files=[ "res://.import/change_electric_light_color.ogg-fd0409546718bb40eccbdbdafb80cb18.oggstr" ]
+source_file="res://aux/assets/sounds/new_sound/change_electric_light_color.ogg"
+dest_files=[ "res://.import/change_electric_light_color.ogg-c83470fee4f01c401a4a11e31625ff34.oggstr" ]
 
 [params]
 

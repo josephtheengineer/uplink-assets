@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Charger_Blink.png-2297e8352fd23583cf6624ea1f91f430.stex"
+path="res://.import/Charger_Blink.png-9c8053fbee4368d24f95a3a8f222f8d7.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/models/Charger_Blink.png"
-dest_files=[ "res://.import/Charger_Blink.png-2297e8352fd23583cf6624ea1f91f430.stex" ]
+source_file="res://aux/assets/models/Charger_Blink.png"
+dest_files=[ "res://.import/Charger_Blink.png-9c8053fbee4368d24f95a3a8f222f8d7.stex" ]
 
 [params]
 

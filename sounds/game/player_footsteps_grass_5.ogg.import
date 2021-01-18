@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/player_footsteps_grass_5.ogg-c4e32b3531f37be7e3fd25e61a0cbb57.oggstr"
+path="res://.import/player_footsteps_grass_5.ogg-6f4086e50e58d9cf65da550b98ea4480.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/game/player_footsteps_grass_5.ogg"
-dest_files=[ "res://.import/player_footsteps_grass_5.ogg-c4e32b3531f37be7e3fd25e61a0cbb57.oggstr" ]
+source_file="res://aux/assets/sounds/game/player_footsteps_grass_5.ogg"
+dest_files=[ "res://.import/player_footsteps_grass_5.ogg-6f4086e50e58d9cf65da550b98ea4480.oggstr" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/shared_world_selected.png-f72840042ee3b00f02ab6085a419b721.stex"
+path="res://.import/shared_world_selected.png-a8bce0a8a35a55d6d2a0c5f702e01efd.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden1/menu/shared_world_selected.png"
-dest_files=[ "res://.import/shared_world_selected.png-f72840042ee3b00f02ab6085a419b721.stex" ]
+source_file="res://aux/assets/textures/ui/eden1/menu/shared_world_selected.png"
+dest_files=[ "res://.import/shared_world_selected.png-a8bce0a8a35a55d6d2a0c5f702e01efd.stex" ]
 
 [params]
 

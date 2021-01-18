@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/Green_Excited_5.ogg-c5ec0a18db24a896f6c7ddfd316e2413.oggstr"
+path="res://.import/Green_Excited_5.ogg-ab10f6b8340d2e8dd30e787ea44fd524.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/creatures/Green_Excited_5.ogg"
-dest_files=[ "res://.import/Green_Excited_5.ogg-c5ec0a18db24a896f6c7ddfd316e2413.oggstr" ]
+source_file="res://aux/assets/sounds/creatures/Green_Excited_5.ogg"
+dest_files=[ "res://.import/Green_Excited_5.ogg-ab10f6b8340d2e8dd30e787ea44fd524.oggstr" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Stumpy_DefaultMASK.png-9c70556453c5f9a213c910591239dde9.stex"
+path="res://.import/Stumpy_DefaultMASK.png-8f1a192cda5cba47b919f67c9afc34be.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/models/masks/Stumpy_DefaultMASK.png"
-dest_files=[ "res://.import/Stumpy_DefaultMASK.png-9c70556453c5f9a213c910591239dde9.stex" ]
+source_file="res://aux/assets/models/masks/Stumpy_DefaultMASK.png"
+dest_files=[ "res://.import/Stumpy_DefaultMASK.png-8f1a192cda5cba47b919f67c9afc34be.stex" ]
 
 [params]
 

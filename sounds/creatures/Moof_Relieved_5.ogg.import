@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/Moof_Relieved_5.ogg-8de93d60c387806ec3245c252b5f430c.oggstr"
+path="res://.import/Moof_Relieved_5.ogg-24024f00e12bf441a485a2c0924e1d87.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/creatures/Moof_Relieved_5.ogg"
-dest_files=[ "res://.import/Moof_Relieved_5.ogg-8de93d60c387806ec3245c252b5f430c.oggstr" ]
+source_file="res://aux/assets/sounds/creatures/Moof_Relieved_5.ogg"
+dest_files=[ "res://.import/Moof_Relieved_5.ogg-24024f00e12bf441a485a2c0924e1d87.oggstr" ]
 
 [params]
 

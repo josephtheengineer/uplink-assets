@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/background.png-da8d90d69ff611b0a59b77d2749bf907.stex"
+path="res://.import/background.png-cd50a81d3e68e37a114b5ce46b1db879.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/icons/josephtheengineer/background.png"
-dest_files=[ "res://.import/background.png-da8d90d69ff611b0a59b77d2749bf907.stex" ]
+source_file="res://aux/assets/textures/ui/icons/josephtheengineer/background.png"
+dest_files=[ "res://.import/background.png-cd50a81d3e68e37a114b5ce46b1db879.stex" ]
 
 [params]
 

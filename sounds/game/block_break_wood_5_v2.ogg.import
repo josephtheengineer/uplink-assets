@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/block_break_wood_5_v2.ogg-5cb56a3d5dc5644af22308bf91c5362d.oggstr"
+path="res://.import/block_break_wood_5_v2.ogg-62fe9f638a44513caee25797d99a3a22.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/game/block_break_wood_5_v2.ogg"
-dest_files=[ "res://.import/block_break_wood_5_v2.ogg-5cb56a3d5dc5644af22308bf91c5362d.oggstr" ]
+source_file="res://aux/assets/sounds/game/block_break_wood_5_v2.ogg"
+dest_files=[ "res://.import/block_break_wood_5_v2.ogg-62fe9f638a44513caee25797d99a3a22.oggstr" ]
 
 [params]
 

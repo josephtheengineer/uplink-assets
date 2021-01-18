@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/block_break_dirt_3_v2.ogg-371f354bd4f544501b9e4cb9c281ef5b.oggstr"
+path="res://.import/block_break_dirt_3_v2.ogg-0eb73f2ce7424302526068e304572c95.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/game/block_break_dirt_3_v2.ogg"
-dest_files=[ "res://.import/block_break_dirt_3_v2.ogg-371f354bd4f544501b9e4cb9c281ef5b.oggstr" ]
+source_file="res://aux/assets/sounds/game/block_break_dirt_3_v2.ogg"
+dest_files=[ "res://.import/block_break_dirt_3_v2.ogg-0eb73f2ce7424302526068e304572c95.oggstr" ]
 
 [params]
 

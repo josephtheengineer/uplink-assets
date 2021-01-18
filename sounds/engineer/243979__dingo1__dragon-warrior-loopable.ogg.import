@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/243979__dingo1__dragon-warrior-loopable.ogg-9a0de01995ac2278332d26b999b6197c.oggstr"
+path="res://.import/243979__dingo1__dragon-warrior-loopable.ogg-883916f913bf2029452d31179b38e0a5.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/engineer/243979__dingo1__dragon-warrior-loopable.ogg"
-dest_files=[ "res://.import/243979__dingo1__dragon-warrior-loopable.ogg-9a0de01995ac2278332d26b999b6197c.oggstr" ]
+source_file="res://aux/assets/sounds/engineer/243979__dingo1__dragon-warrior-loopable.ogg"
+dest_files=[ "res://.import/243979__dingo1__dragon-warrior-loopable.ogg-883916f913bf2029452d31179b38e0a5.oggstr" ]
 
 [params]
 

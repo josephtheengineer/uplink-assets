@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Nergle_DefaultMASK.png-e83a5e83ccf397c4311086f066f2beaf.stex"
+path="res://.import/Nergle_DefaultMASK.png-452528a0339329e32a5e0015c0156fdd.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/models/masks/Nergle_DefaultMASK.png"
-dest_files=[ "res://.import/Nergle_DefaultMASK.png-e83a5e83ccf397c4311086f066f2beaf.stex" ]
+source_file="res://aux/assets/models/masks/Nergle_DefaultMASK.png"
+dest_files=[ "res://.import/Nergle_DefaultMASK.png-452528a0339329e32a5e0015c0156fdd.stex" ]
 
 [params]
 

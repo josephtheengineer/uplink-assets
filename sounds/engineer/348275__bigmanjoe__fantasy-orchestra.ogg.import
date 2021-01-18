@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/348275__bigmanjoe__fantasy-orchestra.ogg-09f85e2c286cbb22b4f132b3eaf344fc.oggstr"
+path="res://.import/348275__bigmanjoe__fantasy-orchestra.ogg-df57c6fdca85d6599d113296067eb721.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/engineer/348275__bigmanjoe__fantasy-orchestra.ogg"
-dest_files=[ "res://.import/348275__bigmanjoe__fantasy-orchestra.ogg-09f85e2c286cbb22b4f132b3eaf344fc.oggstr" ]
+source_file="res://aux/assets/sounds/engineer/348275__bigmanjoe__fantasy-orchestra.ogg"
+dest_files=[ "res://.import/348275__bigmanjoe__fantasy-orchestra.ogg-df57c6fdca85d6599d113296067eb721.oggstr" ]
 
 [params]
 

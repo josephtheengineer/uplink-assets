@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/go_through_portal_01.ogg-5a26621a6a237e2f5e0a628bc87717f3.oggstr"
+path="res://.import/go_through_portal_01.ogg-7eaa30cf0b00684db6c2879f7e3f9e40.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/new_sound/go_through_portal_01.ogg"
-dest_files=[ "res://.import/go_through_portal_01.ogg-5a26621a6a237e2f5e0a628bc87717f3.oggstr" ]
+source_file="res://aux/assets/sounds/new_sound/go_through_portal_01.ogg"
+dest_files=[ "res://.import/go_through_portal_01.ogg-7eaa30cf0b00684db6c2879f7e3f9e40.oggstr" ]
 
 [params]
 

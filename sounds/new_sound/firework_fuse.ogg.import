@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/firework_fuse.ogg-4c7ce2e09f318709fd932bafeb548aa9.oggstr"
+path="res://.import/firework_fuse.ogg-3d2c4c5ebfa54ebf5432146afc8edb61.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/new_sound/firework_fuse.ogg"
-dest_files=[ "res://.import/firework_fuse.ogg-4c7ce2e09f318709fd932bafeb548aa9.oggstr" ]
+source_file="res://aux/assets/sounds/new_sound/firework_fuse.ogg"
+dest_files=[ "res://.import/firework_fuse.ogg-3d2c4c5ebfa54ebf5432146afc8edb61.oggstr" ]
 
 [params]
 

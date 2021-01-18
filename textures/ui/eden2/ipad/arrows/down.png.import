@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/down.png-ee486f6af8646f36d9f0e9962e9674d8.stex"
+path="res://.import/down.png-50dce61b493e41a12636bd37f0fc6409.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden2/ipad/arrows/down.png"
-dest_files=[ "res://.import/down.png-ee486f6af8646f36d9f0e9962e9674d8.stex" ]
+source_file="res://aux/assets/textures/ui/eden2/ipad/arrows/down.png"
+dest_files=[ "res://.import/down.png-50dce61b493e41a12636bd37f0fc6409.stex" ]
 
 [params]
 

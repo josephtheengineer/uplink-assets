@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Batty_BlinkMASK.png-b5b4df7aa07b9f4dd46b4a71b026f137.stex"
+path="res://.import/Batty_BlinkMASK.png-97f6199a4a902cf9e6100b77a77e755c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/models/masks/Batty_BlinkMASK.png"
-dest_files=[ "res://.import/Batty_BlinkMASK.png-b5b4df7aa07b9f4dd46b4a71b026f137.stex" ]
+source_file="res://aux/assets/models/masks/Batty_BlinkMASK.png"
+dest_files=[ "res://.import/Batty_BlinkMASK.png-97f6199a4a902cf9e6100b77a77e755c.stex" ]
 
 [params]
 

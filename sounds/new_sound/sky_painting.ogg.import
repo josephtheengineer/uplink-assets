@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/sky_painting.ogg-e7440fa6a3790ce46af4a39784285b4f.oggstr"
+path="res://.import/sky_painting.ogg-476da3a9150a9ccff44cfd3ff0a7b237.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/new_sound/sky_painting.ogg"
-dest_files=[ "res://.import/sky_painting.ogg-e7440fa6a3790ce46af4a39784285b4f.oggstr" ]
+source_file="res://aux/assets/sounds/new_sound/sky_painting.ogg"
+dest_files=[ "res://.import/sky_painting.ogg-476da3a9150a9ccff44cfd3ff0a7b237.oggstr" ]
 
 [params]
 

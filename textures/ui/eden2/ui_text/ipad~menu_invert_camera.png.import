@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ipad~menu_invert_camera.png-b233c33956e0d5ee891fd0aca46b55b1.stex"
+path="res://.import/ipad~menu_invert_camera.png-9d16e98ca611c25bf614344a7843abe1.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden2/ui_text/ipad~menu_invert_camera.png"
-dest_files=[ "res://.import/ipad~menu_invert_camera.png-b233c33956e0d5ee891fd0aca46b55b1.stex" ]
+source_file="res://aux/assets/textures/ui/eden2/ui_text/ipad~menu_invert_camera.png"
+dest_files=[ "res://.import/ipad~menu_invert_camera.png-9d16e98ca611c25bf614344a7843abe1.stex" ]
 
 [params]
 

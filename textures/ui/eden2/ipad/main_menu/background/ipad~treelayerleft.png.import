@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ipad~treelayerleft.png-7a8a85299e28f6404a968fa694caace4.stex"
+path="res://.import/ipad~treelayerleft.png-c6610bae096b5235108f0ee96bff1608.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden2/ipad/main_menu/background/ipad~treelayerleft.png"
-dest_files=[ "res://.import/ipad~treelayerleft.png-7a8a85299e28f6404a968fa694caace4.stex" ]
+source_file="res://aux/assets/textures/ui/eden2/ipad/main_menu/background/ipad~treelayerleft.png"
+dest_files=[ "res://.import/ipad~treelayerleft.png-c6610bae096b5235108f0ee96bff1608.stex" ]
 
 [params]
 

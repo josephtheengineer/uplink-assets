@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/lava_marsh_badlands_ambience.ogg-7fc53366f1bb5e539cc71f6caa051620.oggstr"
+path="res://.import/lava_marsh_badlands_ambience.ogg-f94e35c2c4942f4f2d4ad71e3f3b8ea0.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/new_sound/lava_marsh_badlands_ambience.ogg"
-dest_files=[ "res://.import/lava_marsh_badlands_ambience.ogg-7fc53366f1bb5e539cc71f6caa051620.oggstr" ]
+source_file="res://aux/assets/sounds/new_sound/lava_marsh_badlands_ambience.ogg"
+dest_files=[ "res://.import/lava_marsh_badlands_ambience.ogg-f94e35c2c4942f4f2d4ad71e3f3b8ea0.oggstr" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/block_break_water_1_v2.ogg-657b9fb0209c0f1d0307f4cf8cc582a8.oggstr"
+path="res://.import/block_break_water_1_v2.ogg-6a7c7b1d158a499810efdcdb9736e6e3.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/game/block_break_water_1_v2.ogg"
-dest_files=[ "res://.import/block_break_water_1_v2.ogg-657b9fb0209c0f1d0307f4cf8cc582a8.oggstr" ]
+source_file="res://aux/assets/sounds/game/block_break_water_1_v2.ogg"
+dest_files=[ "res://.import/block_break_water_1_v2.ogg-6a7c7b1d158a499810efdcdb9736e6e3.oggstr" ]
 
 [params]
 

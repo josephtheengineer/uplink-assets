@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/colorpick_background_bak.png-690f4e216bd64dc86facd36581db4281.stex"
+path="res://.import/colorpick_background_bak.png-2a73233b8eab79a48bf1908feb25c7dc.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden2/iphone/colorpick_background_bak.png"
-dest_files=[ "res://.import/colorpick_background_bak.png-690f4e216bd64dc86facd36581db4281.stex" ]
+source_file="res://aux/assets/textures/ui/eden2/iphone/colorpick_background_bak.png"
+dest_files=[ "res://.import/colorpick_background_bak.png-2a73233b8eab79a48bf1908feb25c7dc.stex" ]
 
 [params]
 

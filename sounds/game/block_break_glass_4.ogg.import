@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/block_break_glass_4.ogg-02318f574ea76b7ecba25ff93b59f132.oggstr"
+path="res://.import/block_break_glass_4.ogg-995fc4b5fd73975121d3cce7950b9488.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/game/block_break_glass_4.ogg"
-dest_files=[ "res://.import/block_break_glass_4.ogg-02318f574ea76b7ecba25ff93b59f132.oggstr" ]
+source_file="res://aux/assets/sounds/game/block_break_glass_4.ogg"
+dest_files=[ "res://.import/block_break_glass_4.ogg-995fc4b5fd73975121d3cce7950b9488.oggstr" ]
 
 [params]
 

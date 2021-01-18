@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/goldcube_icon.png-1c36f599ccc01927780c4c9a177de062.stex"
+path="res://.import/goldcube_icon.png-e9f205c4e1b0f3da2781545e577b40e6.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden2/iphone/goldcube_icon.png"
-dest_files=[ "res://.import/goldcube_icon.png-1c36f599ccc01927780c4c9a177de062.stex" ]
+source_file="res://aux/assets/textures/ui/eden2/iphone/goldcube_icon.png"
+dest_files=[ "res://.import/goldcube_icon.png-e9f205c4e1b0f3da2781545e577b40e6.stex" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/block_build_glass_2.ogg-9ad539a0bfaab6dbeb3ce83944ed3430.oggstr"
+path="res://.import/block_build_glass_2.ogg-30cf52f4e05248021b989f4ba132c4b2.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/game/block_build_glass_2.ogg"
-dest_files=[ "res://.import/block_build_glass_2.ogg-9ad539a0bfaab6dbeb3ce83944ed3430.oggstr" ]
+source_file="res://aux/assets/sounds/game/block_build_glass_2.ogg"
+dest_files=[ "res://.import/block_build_glass_2.ogg-30cf52f4e05248021b989f4ba132c4b2.oggstr" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/block_build_stone_1.ogg-e7caf5cf96ec0d22497c608800cfdd77.oggstr"
+path="res://.import/block_build_stone_1.ogg-50614fca34efa0452e09400045523539.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/game/block_build_stone_1.ogg"
-dest_files=[ "res://.import/block_build_stone_1.ogg-e7caf5cf96ec0d22497c608800cfdd77.oggstr" ]
+source_file="res://aux/assets/sounds/game/block_build_stone_1.ogg"
+dest_files=[ "res://.import/block_build_stone_1.ogg-50614fca34efa0452e09400045523539.oggstr" ]
 
 [params]
 

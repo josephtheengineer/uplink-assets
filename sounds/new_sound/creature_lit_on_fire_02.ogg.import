@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/creature_lit_on_fire_02.ogg-c263c841bf9e0a234c871d6a680dc91f.oggstr"
+path="res://.import/creature_lit_on_fire_02.ogg-8708ceb1979bf7c8ca790acae1c736e0.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/new_sound/creature_lit_on_fire_02.ogg"
-dest_files=[ "res://.import/creature_lit_on_fire_02.ogg-c263c841bf9e0a234c871d6a680dc91f.oggstr" ]
+source_file="res://aux/assets/sounds/new_sound/creature_lit_on_fire_02.ogg"
+dest_files=[ "res://.import/creature_lit_on_fire_02.ogg-8708ceb1979bf7c8ca790acae1c736e0.oggstr" ]
 
 [params]
 

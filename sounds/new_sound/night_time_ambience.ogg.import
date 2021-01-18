@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/night_time_ambience.ogg-d045032314d95cb1e41db522b293a811.oggstr"
+path="res://.import/night_time_ambience.ogg-01f188db6356c0bc02e5ab1ab88dc089.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/new_sound/night_time_ambience.ogg"
-dest_files=[ "res://.import/night_time_ambience.ogg-d045032314d95cb1e41db522b293a811.oggstr" ]
+source_file="res://aux/assets/sounds/new_sound/night_time_ambience.ogg"
+dest_files=[ "res://.import/night_time_ambience.ogg-01f188db6356c0bc02e5ab1ab88dc089.oggstr" ]
 
 [params]
 

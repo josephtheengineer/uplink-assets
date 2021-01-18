@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/palette.png-9e2f3783a68d418d2a97e98d72a9cd14.stex"
+path="res://.import/palette.png-9d75f790353ec065485f4ebc01d2d925.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden1/palette.png"
-dest_files=[ "res://.import/palette.png-9e2f3783a68d418d2a97e98d72a9cd14.stex" ]
+source_file="res://aux/assets/textures/ui/eden1/palette.png"
+dest_files=[ "res://.import/palette.png-9d75f790353ec065485f4ebc01d2d925.stex" ]
 
 [params]
 

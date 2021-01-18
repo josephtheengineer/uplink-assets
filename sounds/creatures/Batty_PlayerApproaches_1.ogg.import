@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/Batty_PlayerApproaches_1.ogg-0d286dc504b41326e32e356cacda54f6.oggstr"
+path="res://.import/Batty_PlayerApproaches_1.ogg-0b3204e420d39564103732f2edd4bee3.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/creatures/Batty_PlayerApproaches_1.ogg"
-dest_files=[ "res://.import/Batty_PlayerApproaches_1.ogg-0d286dc504b41326e32e356cacda54f6.oggstr" ]
+source_file="res://aux/assets/sounds/creatures/Batty_PlayerApproaches_1.ogg"
+dest_files=[ "res://.import/Batty_PlayerApproaches_1.ogg-0b3204e420d39564103732f2edd4bee3.oggstr" ]
 
 [params]
 

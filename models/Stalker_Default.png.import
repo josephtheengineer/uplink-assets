@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Stalker_Default.png-22b880701e72a5c5bb842721e9944660.stex"
+path="res://.import/Stalker_Default.png-cbe3717dbfee3fea9af7ec2d88850328.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/models/Stalker_Default.png"
-dest_files=[ "res://.import/Stalker_Default.png-22b880701e72a5c5bb842721e9944660.stex" ]
+source_file="res://aux/assets/models/Stalker_Default.png"
+dest_files=[ "res://.import/Stalker_Default.png-cbe3717dbfee3fea9af7ec2d88850328.stex" ]
 
 [params]
 

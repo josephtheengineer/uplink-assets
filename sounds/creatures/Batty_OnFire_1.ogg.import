@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/Batty_OnFire_1.ogg-20f67568f113755b81921d3b2db31164.oggstr"
+path="res://.import/Batty_OnFire_1.ogg-a9f0763a97c33920ffc57a23c174af16.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/creatures/Batty_OnFire_1.ogg"
-dest_files=[ "res://.import/Batty_OnFire_1.ogg-20f67568f113755b81921d3b2db31164.oggstr" ]
+source_file="res://aux/assets/sounds/creatures/Batty_OnFire_1.ogg"
+dest_files=[ "res://.import/Batty_OnFire_1.ogg-a9f0763a97c33920ffc57a23c174af16.oggstr" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/death_by_creature_01.ogg-7e805188edb0b0b65be30787a71d024b.oggstr"
+path="res://.import/death_by_creature_01.ogg-2ce5ac1a7cb9ce404decee24aa7e97cc.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/new_sound/death_by_creature_01.ogg"
-dest_files=[ "res://.import/death_by_creature_01.ogg-7e805188edb0b0b65be30787a71d024b.oggstr" ]
+source_file="res://aux/assets/sounds/new_sound/death_by_creature_01.ogg"
+dest_files=[ "res://.import/death_by_creature_01.ogg-2ce5ac1a7cb9ce404decee24aa7e97cc.oggstr" ]
 
 [params]
 

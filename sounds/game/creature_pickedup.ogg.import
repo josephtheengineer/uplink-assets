@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/creature_pickedup.ogg-fa275bf25544f48f1b13c264260cbf20.oggstr"
+path="res://.import/creature_pickedup.ogg-b1925543453a3cba15a2fec05f2f770c.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/game/creature_pickedup.ogg"
-dest_files=[ "res://.import/creature_pickedup.ogg-fa275bf25544f48f1b13c264260cbf20.oggstr" ]
+source_file="res://aux/assets/sounds/game/creature_pickedup.ogg"
+dest_files=[ "res://.import/creature_pickedup.ogg-b1925543453a3cba15a2fec05f2f770c.oggstr" ]
 
 [params]
 

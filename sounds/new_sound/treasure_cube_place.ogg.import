@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/treasure_cube_place.ogg-155d57806e4f4c01693d114dec86918f.oggstr"
+path="res://.import/treasure_cube_place.ogg-d2c70ac055194d68a32e7ec0d3ef1069.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/new_sound/treasure_cube_place.ogg"
-dest_files=[ "res://.import/treasure_cube_place.ogg-155d57806e4f4c01693d114dec86918f.oggstr" ]
+source_file="res://aux/assets/sounds/new_sound/treasure_cube_place.ogg"
+dest_files=[ "res://.import/treasure_cube_place.ogg-d2c70ac055194d68a32e7ec0d3ef1069.oggstr" ]
 
 [params]
 

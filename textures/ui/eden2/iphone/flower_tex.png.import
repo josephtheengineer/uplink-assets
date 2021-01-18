@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/flower_tex.png-204210aaf7846ea1dc14a86fb9f3490a.stex"
+path="res://.import/flower_tex.png-c5e1021bc7f3a96556e2e02430656410.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden2/iphone/flower_tex.png"
-dest_files=[ "res://.import/flower_tex.png-204210aaf7846ea1dc14a86fb9f3490a.stex" ]
+source_file="res://aux/assets/textures/ui/eden2/iphone/flower_tex.png"
+dest_files=[ "res://.import/flower_tex.png-c5e1021bc7f3a96556e2e02430656410.stex" ]
 
 [params]
 

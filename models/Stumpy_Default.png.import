@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Stumpy_Default.png-bf5de627d4c08b1cff3ee5d332f0e305.stex"
+path="res://.import/Stumpy_Default.png-29c21ae5a2c10828deae5f8eacb13caa.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/models/Stumpy_Default.png"
-dest_files=[ "res://.import/Stumpy_Default.png-bf5de627d4c08b1cff3ee5d332f0e305.stex" ]
+source_file="res://aux/assets/models/Stumpy_Default.png"
+dest_files=[ "res://.import/Stumpy_Default.png-29c21ae5a2c10828deae5f8eacb13caa.stex" ]
 
 [params]
 

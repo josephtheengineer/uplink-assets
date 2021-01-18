@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/portal_icon2_active.png-2d61171cb96e7c27b3015ce086c10566.stex"
+path="res://.import/portal_icon2_active.png-8ebd8e7867902c2cad748fee40c2f608.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden2/iphone/portal_icon2_active.png"
-dest_files=[ "res://.import/portal_icon2_active.png-2d61171cb96e7c27b3015ce086c10566.stex" ]
+source_file="res://aux/assets/textures/ui/eden2/iphone/portal_icon2_active.png"
+dest_files=[ "res://.import/portal_icon2_active.png-8ebd8e7867902c2cad748fee40c2f608.stex" ]
 
 [params]
 

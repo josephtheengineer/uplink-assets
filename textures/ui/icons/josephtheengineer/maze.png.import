@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/maze.png-5cf360e1d28f9ac799b67dc2cb116fae.stex"
+path="res://.import/maze.png-b1bb87fc20f2007157ed53bee6ecc046.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/icons/josephtheengineer/maze.png"
-dest_files=[ "res://.import/maze.png-5cf360e1d28f9ac799b67dc2cb116fae.stex" ]
+source_file="res://aux/assets/textures/ui/icons/josephtheengineer/maze.png"
+dest_files=[ "res://.import/maze.png-b1bb87fc20f2007157ed53bee6ecc046.stex" ]
 
 [params]
 

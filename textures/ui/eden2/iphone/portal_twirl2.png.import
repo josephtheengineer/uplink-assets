@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/portal_twirl2.png-8acfd70805ca8e4165989239ee48c642.stex"
+path="res://.import/portal_twirl2.png-bf7c16eff8787bba0da33683cf98ab8e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden2/iphone/portal_twirl2.png"
-dest_files=[ "res://.import/portal_twirl2.png-8acfd70805ca8e4165989239ee48c642.stex" ]
+source_file="res://aux/assets/textures/ui/eden2/iphone/portal_twirl2.png"
+dest_files=[ "res://.import/portal_twirl2.png-bf7c16eff8787bba0da33683cf98ab8e.stex" ]
 
 [params]
 

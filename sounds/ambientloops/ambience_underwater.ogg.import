@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/ambience_underwater.ogg-f424eb100a0108aeecfe328959596921.oggstr"
+path="res://.import/ambience_underwater.ogg-7bf773ecc5f3d3b159ea67b1543b2573.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/ambientloops/ambience_underwater.ogg"
-dest_files=[ "res://.import/ambience_underwater.ogg-f424eb100a0108aeecfe328959596921.oggstr" ]
+source_file="res://aux/assets/sounds/ambientloops/ambience_underwater.ogg"
+dest_files=[ "res://.import/ambience_underwater.ogg-7bf773ecc5f3d3b159ea67b1543b2573.oggstr" ]
 
 [params]
 

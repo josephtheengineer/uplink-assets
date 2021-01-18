@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/Green_Walking_2.ogg-1562d8b54e5214e019d7bc1061aaf22e.oggstr"
+path="res://.import/Green_Walking_2.ogg-94b134a7d857b9a3bec1c2bc44d65d68.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/creatures/Green_Walking_2.ogg"
-dest_files=[ "res://.import/Green_Walking_2.ogg-1562d8b54e5214e019d7bc1061aaf22e.oggstr" ]
+source_file="res://aux/assets/sounds/creatures/Green_Walking_2.ogg"
+dest_files=[ "res://.import/Green_Walking_2.ogg-94b134a7d857b9a3bec1c2bc44d65d68.oggstr" ]
 
 [params]
 

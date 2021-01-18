@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Batty_Rage.png-543e0df85f6e4e16389f5f4f30022e0d.stex"
+path="res://.import/Batty_Rage.png-b9e04c5990dc510af3e004c4e2230811.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/models/Batty_Rage.png"
-dest_files=[ "res://.import/Batty_Rage.png-543e0df85f6e4e16389f5f4f30022e0d.stex" ]
+source_file="res://aux/assets/models/Batty_Rage.png"
+dest_files=[ "res://.import/Batty_Rage.png-b9e04c5990dc510af3e004c4e2230811.stex" ]
 
 [params]
 

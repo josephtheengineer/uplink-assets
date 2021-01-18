@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/flowers_bw.png-4eadcd759df95f1a9485629a1feb1ac5.stex"
+path="res://.import/flowers_bw.png-9ea281f8a9096d8332dff14d4d4b1b53.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/flowers_bw.png"
-dest_files=[ "res://.import/flowers_bw.png-4eadcd759df95f1a9485629a1feb1ac5.stex" ]
+source_file="res://aux/assets/textures/flowers_bw.png"
+dest_files=[ "res://.import/flowers_bw.png-9ea281f8a9096d8332dff14d4d4b1b53.stex" ]
 
 [params]
 

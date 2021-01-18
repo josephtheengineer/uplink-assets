@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/380315__unhacker__scifi-microbrute-15.ogg-31f783c4dc6c9d466efce290fce653d5.oggstr"
+path="res://.import/380315__unhacker__scifi-microbrute-15.ogg-4f18c5b3a6539a67c3beec192a695c41.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/engineer/380315__unhacker__scifi-microbrute-15.ogg"
-dest_files=[ "res://.import/380315__unhacker__scifi-microbrute-15.ogg-31f783c4dc6c9d466efce290fce653d5.oggstr" ]
+source_file="res://aux/assets/sounds/engineer/380315__unhacker__scifi-microbrute-15.ogg"
+dest_files=[ "res://.import/380315__unhacker__scifi-microbrute-15.ogg-4f18c5b3a6539a67c3beec192a695c41.oggstr" ]
 
 [params]
 

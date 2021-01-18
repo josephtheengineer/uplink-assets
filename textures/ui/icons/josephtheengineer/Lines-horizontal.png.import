@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Lines-horizontal.png-b5d1013688275d77371a6a43c05b0762.stex"
+path="res://.import/Lines-horizontal.png-acd07c0b126e11cc28bddaa7a843a061.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/icons/josephtheengineer/Lines-horizontal.png"
-dest_files=[ "res://.import/Lines-horizontal.png-b5d1013688275d77371a6a43c05b0762.stex" ]
+source_file="res://aux/assets/textures/ui/icons/josephtheengineer/Lines-horizontal.png"
+dest_files=[ "res://.import/Lines-horizontal.png-acd07c0b126e11cc28bddaa7a843a061.stex" ]
 
 [params]
 

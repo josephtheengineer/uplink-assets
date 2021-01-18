@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/dark_stone.png-e6e72ccd990e90848c6f0993f73b8a2a.stex"
+path="res://.import/dark_stone.png-80fab20dcd8a31366251966fdb156606.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/dark_stone.png"
-dest_files=[ "res://.import/dark_stone.png-e6e72ccd990e90848c6f0993f73b8a2a.stex" ]
+source_file="res://aux/assets/textures/dark_stone.png"
+dest_files=[ "res://.import/dark_stone.png-80fab20dcd8a31366251966fdb156606.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/crystal_pink.png-aefe1d1756ef629fc5137c213e71834f.stex"
+path="res://.import/crystal_pink.png-3cb430057d95c3c30373c7668fa65ca9.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/crystal_pink.png"
-dest_files=[ "res://.import/crystal_pink.png-aefe1d1756ef629fc5137c213e71834f.stex" ]
+source_file="res://aux/assets/textures/crystal_pink.png"
+dest_files=[ "res://.import/crystal_pink.png-3cb430057d95c3c30373c7668fa65ca9.stex" ]
 
 [params]
 

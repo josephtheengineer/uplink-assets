@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Nergle_Blink.png-d68c52a0cbd028ef97138a1c3ffec62b.stex"
+path="res://.import/Nergle_Blink.png-d4e36af2c6e13d7ff128177a78b5ec60.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/models/Nergle_Blink.png"
-dest_files=[ "res://.import/Nergle_Blink.png-d68c52a0cbd028ef97138a1c3ffec62b.stex" ]
+source_file="res://aux/assets/models/Nergle_Blink.png"
+dest_files=[ "res://.import/Nergle_Blink.png-d4e36af2c6e13d7ff128177a78b5ec60.stex" ]
 
 [params]
 

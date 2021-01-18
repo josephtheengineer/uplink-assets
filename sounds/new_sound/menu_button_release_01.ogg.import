@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/menu_button_release_01.ogg-ee31d687b0af32ba883ffd3f5fe1e46a.oggstr"
+path="res://.import/menu_button_release_01.ogg-ae5efa70755302cb74514a1b8e19211f.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/new_sound/menu_button_release_01.ogg"
-dest_files=[ "res://.import/menu_button_release_01.ogg-ee31d687b0af32ba883ffd3f5fe1e46a.oggstr" ]
+source_file="res://aux/assets/sounds/new_sound/menu_button_release_01.ogg"
+dest_files=[ "res://.import/menu_button_release_01.ogg-ae5efa70755302cb74514a1b8e19211f.oggstr" ]
 
 [params]
 

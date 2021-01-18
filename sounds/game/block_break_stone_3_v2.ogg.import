@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/block_break_stone_3_v2.ogg-b407c1e4c774065bba2e4c455a05ea6b.oggstr"
+path="res://.import/block_break_stone_3_v2.ogg-c4a8496c96b388c5851a79a6dfead95a.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/game/block_break_stone_3_v2.ogg"
-dest_files=[ "res://.import/block_break_stone_3_v2.ogg-b407c1e4c774065bba2e4c455a05ea6b.oggstr" ]
+source_file="res://aux/assets/sounds/game/block_break_stone_3_v2.ogg"
+dest_files=[ "res://.import/block_break_stone_3_v2.ogg-c4a8496c96b388c5851a79a6dfead95a.oggstr" ]
 
 [params]
 

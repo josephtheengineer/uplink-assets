@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Moof_BlinkMASK.png-21ca5f6821aef1d518c69664315b8282.stex"
+path="res://.import/Moof_BlinkMASK.png-06b4d157b125fe12ea78929ee003ff22.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/models/masks/Moof_BlinkMASK.png"
-dest_files=[ "res://.import/Moof_BlinkMASK.png-21ca5f6821aef1d518c69664315b8282.stex" ]
+source_file="res://aux/assets/models/masks/Moof_BlinkMASK.png"
+dest_files=[ "res://.import/Moof_BlinkMASK.png-06b4d157b125fe12ea78929ee003ff22.stex" ]
 
 [params]
 

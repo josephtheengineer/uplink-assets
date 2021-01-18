@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Green_BlinkMASK.png-06dbeb85566d3497975a7d782f5def53.stex"
+path="res://.import/Green_BlinkMASK.png-089418f20218775c29dfce4ea96dcd89.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/models/masks/Green_BlinkMASK.png"
-dest_files=[ "res://.import/Green_BlinkMASK.png-06dbeb85566d3497975a7d782f5def53.stex" ]
+source_file="res://aux/assets/models/masks/Green_BlinkMASK.png"
+dest_files=[ "res://.import/Green_BlinkMASK.png-089418f20218775c29dfce4ea96dcd89.stex" ]
 
 [params]
 

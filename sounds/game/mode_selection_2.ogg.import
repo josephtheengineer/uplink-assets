@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/mode_selection_2.ogg-0aae6a9007c28b22fd47c906e162ab3f.oggstr"
+path="res://.import/mode_selection_2.ogg-fb1a13b6e3e9dd5b520b9b0e779842ae.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/game/mode_selection_2.ogg"
-dest_files=[ "res://.import/mode_selection_2.ogg-0aae6a9007c28b22fd47c906e162ab3f.oggstr" ]
+source_file="res://aux/assets/sounds/game/mode_selection_2.ogg"
+dest_files=[ "res://.import/mode_selection_2.ogg-fb1a13b6e3e9dd5b520b9b0e779842ae.oggstr" ]
 
 [params]
 

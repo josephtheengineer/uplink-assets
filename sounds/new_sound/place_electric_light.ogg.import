@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/place_electric_light.ogg-badc6dc1a1a3b35552138e53471d41cb.oggstr"
+path="res://.import/place_electric_light.ogg-9c7c08a4258be27a12196e83ac693904.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/new_sound/place_electric_light.ogg"
-dest_files=[ "res://.import/place_electric_light.ogg-badc6dc1a1a3b35552138e53471d41cb.oggstr" ]
+source_file="res://aux/assets/sounds/new_sound/place_electric_light.ogg"
+dest_files=[ "res://.import/place_electric_light.ogg-9c7c08a4258be27a12196e83ac693904.oggstr" ]
 
 [params]
 

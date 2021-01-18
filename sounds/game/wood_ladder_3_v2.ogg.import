@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/wood_ladder_3_v2.ogg-c60ce558d4ae88ef3e9e9120e513fc0b.oggstr"
+path="res://.import/wood_ladder_3_v2.ogg-60a08979fd985d76447d69ca804ebc20.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/game/wood_ladder_3_v2.ogg"
-dest_files=[ "res://.import/wood_ladder_3_v2.ogg-c60ce558d4ae88ef3e9e9120e513fc0b.oggstr" ]
+source_file="res://aux/assets/sounds/game/wood_ladder_3_v2.ogg"
+dest_files=[ "res://.import/wood_ladder_3_v2.ogg-60a08979fd985d76447d69ca804ebc20.oggstr" ]
 
 [params]
 

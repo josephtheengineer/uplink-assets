@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/paint.ogg-ab5b19cbef49fdf33fb219129188ae59.oggstr"
+path="res://.import/paint.ogg-38416577e8cfeec18179a42c644a63b5.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/paint.ogg"
-dest_files=[ "res://.import/paint.ogg-ab5b19cbef49fdf33fb219129188ae59.oggstr" ]
+source_file="res://aux/assets/sounds/paint.ogg"
+dest_files=[ "res://.import/paint.ogg-38416577e8cfeec18179a42c644a63b5.oggstr" ]
 
 [params]
 

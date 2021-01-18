@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Stumpy_BlinkMASK.png-160ded8879da52ea24e28e094811e1cf.stex"
+path="res://.import/Stumpy_BlinkMASK.png-eb5e566531e473d086e18cee51f7dfee.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/models/masks/Stumpy_BlinkMASK.png"
-dest_files=[ "res://.import/Stumpy_BlinkMASK.png-160ded8879da52ea24e28e094811e1cf.stex" ]
+source_file="res://aux/assets/models/masks/Stumpy_BlinkMASK.png"
+dest_files=[ "res://.import/Stumpy_BlinkMASK.png-eb5e566531e473d086e18cee51f7dfee.stex" ]
 
 [params]
 

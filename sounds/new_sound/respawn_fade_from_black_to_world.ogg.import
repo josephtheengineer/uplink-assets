@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/respawn_fade_from_black_to_world.ogg-474004c52d2289f4bc6c793d9d91537c.oggstr"
+path="res://.import/respawn_fade_from_black_to_world.ogg-ac39e6ed9abf9f6671b51c2dab6583ca.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/new_sound/respawn_fade_from_black_to_world.ogg"
-dest_files=[ "res://.import/respawn_fade_from_black_to_world.ogg-474004c52d2289f4bc6c793d9d91537c.oggstr" ]
+source_file="res://aux/assets/sounds/new_sound/respawn_fade_from_black_to_world.ogg"
+dest_files=[ "res://.import/respawn_fade_from_black_to_world.ogg-ac39e6ed9abf9f6671b51c2dab6583ca.oggstr" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/edenlogowithbackground-512x512.png-7f7caeb98134d342b8c825c67eb7a202.stex"
+path="res://.import/edenlogowithbackground-512x512.png-422da2169f58099d292fdcfb4cfbc40b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/icons/edenlogowithbackground-512x512.png"
-dest_files=[ "res://.import/edenlogowithbackground-512x512.png-7f7caeb98134d342b8c825c67eb7a202.stex" ]
+source_file="res://aux/assets/textures/ui/icons/edenlogowithbackground-512x512.png"
+dest_files=[ "res://.import/edenlogowithbackground-512x512.png-422da2169f58099d292fdcfb4cfbc40b.stex" ]
 
 [params]
 

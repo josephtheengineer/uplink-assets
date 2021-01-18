@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Nergle_Rage.png-7a0c1574f84f3396a900b0f888db5987.stex"
+path="res://.import/Nergle_Rage.png-28e9af243e5fca930c20c5d54c7598cd.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/models/Nergle_Rage.png"
-dest_files=[ "res://.import/Nergle_Rage.png-7a0c1574f84f3396a900b0f888db5987.stex" ]
+source_file="res://aux/assets/models/Nergle_Rage.png"
+dest_files=[ "res://.import/Nergle_Rage.png-28e9af243e5fca930c20c5d54c7598cd.stex" ]
 
 [params]
 

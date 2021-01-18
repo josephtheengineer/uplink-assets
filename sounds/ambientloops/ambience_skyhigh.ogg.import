@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/ambience_skyhigh.ogg-9eb1891e29cde679c4d18cb0f61da548.oggstr"
+path="res://.import/ambience_skyhigh.ogg-4e0dbb2285a4245f7f18e82ade4b1a1f.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/ambientloops/ambience_skyhigh.ogg"
-dest_files=[ "res://.import/ambience_skyhigh.ogg-9eb1891e29cde679c4d18cb0f61da548.oggstr" ]
+source_file="res://aux/assets/sounds/ambientloops/ambience_skyhigh.ogg"
+dest_files=[ "res://.import/ambience_skyhigh.ogg-4e0dbb2285a4245f7f18e82ade4b1a1f.oggstr" ]
 
 [params]
 

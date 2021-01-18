@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/create_world.png-d15f59691a2542bb0221963a55bf4df3.stex"
+path="res://.import/create_world.png-bd0affa970925a95b794cd105d1321b4.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden1/menu/create_world.png"
-dest_files=[ "res://.import/create_world.png-d15f59691a2542bb0221963a55bf4df3.stex" ]
+source_file="res://aux/assets/textures/ui/eden1/menu/create_world.png"
+dest_files=[ "res://.import/create_world.png-bd0affa970925a95b794cd105d1321b4.stex" ]
 
 [params]
 

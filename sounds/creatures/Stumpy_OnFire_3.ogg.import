@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/Stumpy_OnFire_3.ogg-ba83f4ab7a6d0572272a08509b374feb.oggstr"
+path="res://.import/Stumpy_OnFire_3.ogg-94fed239bd40f421e51cf5aaa89b37a9.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/creatures/Stumpy_OnFire_3.ogg"
-dest_files=[ "res://.import/Stumpy_OnFire_3.ogg-ba83f4ab7a6d0572272a08509b374feb.oggstr" ]
+source_file="res://aux/assets/sounds/creatures/Stumpy_OnFire_3.ogg"
+dest_files=[ "res://.import/Stumpy_OnFire_3.ogg-94fed239bd40f421e51cf5aaa89b37a9.oggstr" ]
 
 [params]
 

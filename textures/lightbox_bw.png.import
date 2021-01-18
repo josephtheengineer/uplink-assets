@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/lightbox_bw.png-2de9e44785f9faa436ebc16ad6d0627a.stex"
+path="res://.import/lightbox_bw.png-965df2ca9535adb018deefaf23a614a3.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/lightbox_bw.png"
-dest_files=[ "res://.import/lightbox_bw.png-2de9e44785f9faa436ebc16ad6d0627a.stex" ]
+source_file="res://aux/assets/textures/lightbox_bw.png"
+dest_files=[ "res://.import/lightbox_bw.png-965df2ca9535adb018deefaf23a614a3.stex" ]
 
 [params]
 

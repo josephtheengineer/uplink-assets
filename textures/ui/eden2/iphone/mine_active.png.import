@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/mine_active.png-67dbe5c12574ba7a7e76811790474197.stex"
+path="res://.import/mine_active.png-e59b4ce5e117a8175d4a95b62bd65eb4.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden2/iphone/mine_active.png"
-dest_files=[ "res://.import/mine_active.png-67dbe5c12574ba7a7e76811790474197.stex" ]
+source_file="res://aux/assets/textures/ui/eden2/iphone/mine_active.png"
+dest_files=[ "res://.import/mine_active.png-e59b4ce5e117a8175d4a95b62bd65eb4.stex" ]
 
 [params]
 

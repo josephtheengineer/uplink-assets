@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/camera.png-dce00930d32e5000e776cb89d14bf9e7.stex"
+path="res://.import/camera.png-267bd198ec219e7e17c92d6902d51712.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden2/iphone/camera.png"
-dest_files=[ "res://.import/camera.png-dce00930d32e5000e776cb89d14bf9e7.stex" ]
+source_file="res://aux/assets/textures/ui/eden2/iphone/camera.png"
+dest_files=[ "res://.import/camera.png-267bd198ec219e7e17c92d6902d51712.stex" ]
 
 [params]
 

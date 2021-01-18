@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/explosion_2.ogg-f8d9451b853ed26d1a5e8eb29b906c3e.oggstr"
+path="res://.import/explosion_2.ogg-15dfd4b4304b1e7af8716b33e9212c7e.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/game/explosion_2.ogg"
-dest_files=[ "res://.import/explosion_2.ogg-f8d9451b853ed26d1a5e8eb29b906c3e.oggstr" ]
+source_file="res://aux/assets/sounds/game/explosion_2.ogg"
+dest_files=[ "res://.import/explosion_2.ogg-15dfd4b4304b1e7af8716b33e9212c7e.oggstr" ]
 
 [params]
 

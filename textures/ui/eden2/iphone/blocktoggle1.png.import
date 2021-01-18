@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/blocktoggle1.png-66e2c45db7f1d04d165dcfbbdea6e9ed.stex"
+path="res://.import/blocktoggle1.png-5b28e3817be8387aa63369d6263f4fc9.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden2/iphone/blocktoggle1.png"
-dest_files=[ "res://.import/blocktoggle1.png-66e2c45db7f1d04d165dcfbbdea6e9ed.stex" ]
+source_file="res://aux/assets/textures/ui/eden2/iphone/blocktoggle1.png"
+dest_files=[ "res://.import/blocktoggle1.png-5b28e3817be8387aa63369d6263f4fc9.stex" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/61322__mansardian__news-end-signature.ogg-b080885474e4c7ef8e97ee97b7f744f8.oggstr"
+path="res://.import/61322__mansardian__news-end-signature.ogg-60dc57895c8bead9ec849a221175521b.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/engineer/61322__mansardian__news-end-signature.ogg"
-dest_files=[ "res://.import/61322__mansardian__news-end-signature.ogg-b080885474e4c7ef8e97ee97b7f744f8.oggstr" ]
+source_file="res://aux/assets/sounds/engineer/61322__mansardian__news-end-signature.ogg"
+dest_files=[ "res://.import/61322__mansardian__news-end-signature.ogg-60dc57895c8bead9ec849a221175521b.oggstr" ]
 
 [params]
 

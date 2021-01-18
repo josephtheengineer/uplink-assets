@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/crystal_white.png-becf9d0b087df02ca719519f501760ad.stex"
+path="res://.import/crystal_white.png-2f2ec314ad3d22cdec56d2af9831244c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/crystal_white.png"
-dest_files=[ "res://.import/crystal_white.png-becf9d0b087df02ca719519f501760ad.stex" ]
+source_file="res://aux/assets/textures/crystal_white.png"
+dest_files=[ "res://.import/crystal_white.png-2f2ec314ad3d22cdec56d2af9831244c.stex" ]
 
 [params]
 

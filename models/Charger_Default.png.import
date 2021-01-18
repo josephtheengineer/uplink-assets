@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Charger_Default.png-0f09237e7606495ea5deab42b80a62a9.stex"
+path="res://.import/Charger_Default.png-407b9c3fd14ee92d167c5c5219d5bdad.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/models/Charger_Default.png"
-dest_files=[ "res://.import/Charger_Default.png-0f09237e7606495ea5deab42b80a62a9.stex" ]
+source_file="res://aux/assets/models/Charger_Default.png"
+dest_files=[ "res://.import/Charger_Default.png-407b9c3fd14ee92d167c5c5219d5bdad.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/menu_cancel.png-f41e31c2729205ee7c5360ca78bf1bf9.stex"
+path="res://.import/menu_cancel.png-264fdecd35dd9f7b246ebcd44bdedc3f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden2/ui_text/menu_cancel.png"
-dest_files=[ "res://.import/menu_cancel.png-f41e31c2729205ee7c5360ca78bf1bf9.stex" ]
+source_file="res://aux/assets/textures/ui/eden2/ui_text/menu_cancel.png"
+dest_files=[ "res://.import/menu_cancel.png-264fdecd35dd9f7b246ebcd44bdedc3f.stex" ]
 
 [params]
 

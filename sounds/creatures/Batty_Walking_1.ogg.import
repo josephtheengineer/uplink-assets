@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/Batty_Walking_1.ogg-411e613149c73908da90497b4897991c.oggstr"
+path="res://.import/Batty_Walking_1.ogg-823d582f7d38c7556a327788bac33469.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/creatures/Batty_Walking_1.ogg"
-dest_files=[ "res://.import/Batty_Walking_1.ogg-411e613149c73908da90497b4897991c.oggstr" ]
+source_file="res://aux/assets/sounds/creatures/Batty_Walking_1.ogg"
+dest_files=[ "res://.import/Batty_Walking_1.ogg-823d582f7d38c7556a327788bac33469.oggstr" ]
 
 [params]
 

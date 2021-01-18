@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/Batty_Stretching_2.ogg-f47d8c8c34db9009cff9e8c467a4c36c.oggstr"
+path="res://.import/Batty_Stretching_2.ogg-e2ed280ed1eb32eb575cc1101a256c0e.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/creatures/Batty_Stretching_2.ogg"
-dest_files=[ "res://.import/Batty_Stretching_2.ogg-f47d8c8c34db9009cff9e8c467a4c36c.oggstr" ]
+source_file="res://aux/assets/sounds/creatures/Batty_Stretching_2.ogg"
+dest_files=[ "res://.import/Batty_Stretching_2.ogg-e2ed280ed1eb32eb575cc1101a256c0e.oggstr" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/weave_bw.png-3cf6c1cec898d234ec5cca6d8de068e8.stex"
+path="res://.import/weave_bw.png-987b14099d18539723998372e9f8edd9.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/weave_bw.png"
-dest_files=[ "res://.import/weave_bw.png-3cf6c1cec898d234ec5cca6d8de068e8.stex" ]
+source_file="res://aux/assets/textures/weave_bw.png"
+dest_files=[ "res://.import/weave_bw.png-987b14099d18539723998372e9f8edd9.stex" ]
 
 [params]
 

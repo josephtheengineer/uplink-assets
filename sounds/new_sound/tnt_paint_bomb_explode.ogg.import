@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/tnt_paint_bomb_explode.ogg-21def5c066ea4d5caf94efb4cfe3150b.oggstr"
+path="res://.import/tnt_paint_bomb_explode.ogg-c2b83b9695ff25a508ec526d29860559.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/new_sound/tnt_paint_bomb_explode.ogg"
-dest_files=[ "res://.import/tnt_paint_bomb_explode.ogg-21def5c066ea4d5caf94efb4cfe3150b.oggstr" ]
+source_file="res://aux/assets/sounds/new_sound/tnt_paint_bomb_explode.ogg"
+dest_files=[ "res://.import/tnt_paint_bomb_explode.ogg-c2b83b9695ff25a508ec526d29860559.oggstr" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/Stumpy_Hit_4.ogg-7efa61f6fad0d54bf752909a9d45b102.oggstr"
+path="res://.import/Stumpy_Hit_4.ogg-e9674af297e024801e96fb9670813e2f.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/creatures/Stumpy_Hit_4.ogg"
-dest_files=[ "res://.import/Stumpy_Hit_4.ogg-7efa61f6fad0d54bf752909a9d45b102.oggstr" ]
+source_file="res://aux/assets/sounds/creatures/Stumpy_Hit_4.ogg"
+dest_files=[ "res://.import/Stumpy_Hit_4.ogg-e9674af297e024801e96fb9670813e2f.oggstr" ]
 
 [params]
 

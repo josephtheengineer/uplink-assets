@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ipad~camera.png-e8b8be91c0ce30a84c9da256e68b6400.stex"
+path="res://.import/ipad~camera.png-0411015a976c986d27c803d1c6fbf13b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden2/ipad/windows/pause_window/ipad~camera.png"
-dest_files=[ "res://.import/ipad~camera.png-e8b8be91c0ce30a84c9da256e68b6400.stex" ]
+source_file="res://aux/assets/textures/ui/eden2/ipad/windows/pause_window/ipad~camera.png"
+dest_files=[ "res://.import/ipad~camera.png-0411015a976c986d27c803d1c6fbf13b.stex" ]
 
 [params]
 

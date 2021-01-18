@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Batty_DefaultMASK.png-f2370f656d894b9b2ba6b2221c6cfee3.stex"
+path="res://.import/Batty_DefaultMASK.png-f135a18ccd40cccce38166a7c2637769.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/models/masks/Batty_DefaultMASK.png"
-dest_files=[ "res://.import/Batty_DefaultMASK.png-f2370f656d894b9b2ba6b2221c6cfee3.stex" ]
+source_file="res://aux/assets/models/masks/Batty_DefaultMASK.png"
+dest_files=[ "res://.import/Batty_DefaultMASK.png-f135a18ccd40cccce38166a7c2637769.stex" ]
 
 [params]
 

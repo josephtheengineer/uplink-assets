@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/ambience_river.ogg-4ab3cd9a96668cf2d3d42c0e00b3254a.oggstr"
+path="res://.import/ambience_river.ogg-9d2022545f4f7776e50cc8685dd59dc2.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/ambientloops/ambience_river.ogg"
-dest_files=[ "res://.import/ambience_river.ogg-4ab3cd9a96668cf2d3d42c0e00b3254a.oggstr" ]
+source_file="res://aux/assets/sounds/ambientloops/ambience_river.ogg"
+dest_files=[ "res://.import/ambience_river.ogg-9d2022545f4f7776e50cc8685dd59dc2.oggstr" ]
 
 [params]
 

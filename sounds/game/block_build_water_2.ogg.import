@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/block_build_water_2.ogg-0dbe79e130386d4fcaa8ecbb7e61d4a3.oggstr"
+path="res://.import/block_build_water_2.ogg-6b99a16a1fcde92c68bfc5338ad74d9e.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/game/block_build_water_2.ogg"
-dest_files=[ "res://.import/block_build_water_2.ogg-0dbe79e130386d4fcaa8ecbb7e61d4a3.oggstr" ]
+source_file="res://aux/assets/sounds/game/block_build_water_2.ogg"
+dest_files=[ "res://.import/block_build_water_2.ogg-6b99a16a1fcde92c68bfc5338ad74d9e.oggstr" ]
 
 [params]
 

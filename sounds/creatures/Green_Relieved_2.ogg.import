@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/Green_Relieved_2.ogg-62cd0f35fb5d1b6f41aff5677970df8e.oggstr"
+path="res://.import/Green_Relieved_2.ogg-e42ff9d61a5b99e27a7ecbe7c19a3125.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/creatures/Green_Relieved_2.ogg"
-dest_files=[ "res://.import/Green_Relieved_2.ogg-62cd0f35fb5d1b6f41aff5677970df8e.oggstr" ]
+source_file="res://aux/assets/sounds/creatures/Green_Relieved_2.ogg"
+dest_files=[ "res://.import/Green_Relieved_2.ogg-e42ff9d61a5b99e27a7ecbe7c19a3125.oggstr" ]
 
 [params]
 

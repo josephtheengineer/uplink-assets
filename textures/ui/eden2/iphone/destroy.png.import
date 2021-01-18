@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/destroy.png-062d1b967700108a249891c67455c334.stex"
+path="res://.import/destroy.png-0bb52f2407a86355b8993cb88c3463e4.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden2/iphone/destroy.png"
-dest_files=[ "res://.import/destroy.png-062d1b967700108a249891c67455c334.stex" ]
+source_file="res://aux/assets/textures/ui/eden2/iphone/destroy.png"
+dest_files=[ "res://.import/destroy.png-0bb52f2407a86355b8993cb88c3463e4.stex" ]
 
 [params]
 

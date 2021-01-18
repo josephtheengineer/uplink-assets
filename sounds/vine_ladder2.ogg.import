@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/vine_ladder2.ogg-b8916205d541315cf52441c368e32e09.oggstr"
+path="res://.import/vine_ladder2.ogg-b8a67b9921351e8fa225aa9fc6585256.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/vine_ladder2.ogg"
-dest_files=[ "res://.import/vine_ladder2.ogg-b8916205d541315cf52441c368e32e09.oggstr" ]
+source_file="res://aux/assets/sounds/vine_ladder2.ogg"
+dest_files=[ "res://.import/vine_ladder2.ogg-b8a67b9921351e8fa225aa9fc6585256.oggstr" ]
 
 [params]
 

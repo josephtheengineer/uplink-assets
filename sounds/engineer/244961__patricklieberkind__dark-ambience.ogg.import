@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/244961__patricklieberkind__dark-ambience.ogg-ade87f70709773f15abe7519aefcfc09.oggstr"
+path="res://.import/244961__patricklieberkind__dark-ambience.ogg-d60538d07a0b76336e42fda4ce8fe841.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/engineer/244961__patricklieberkind__dark-ambience.ogg"
-dest_files=[ "res://.import/244961__patricklieberkind__dark-ambience.ogg-ade87f70709773f15abe7519aefcfc09.oggstr" ]
+source_file="res://aux/assets/sounds/engineer/244961__patricklieberkind__dark-ambience.ogg"
+dest_files=[ "res://.import/244961__patricklieberkind__dark-ambience.ogg-d60538d07a0b76336e42fda4ce8fe841.oggstr" ]
 
 [params]
 

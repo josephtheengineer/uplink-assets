@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/menu_music.png-74aa84e525b93754ab403cec7f51d08b.stex"
+path="res://.import/menu_music.png-d3119d58d37dc296476d0b02ae0744dc.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden2/ui_text/menu_music.png"
-dest_files=[ "res://.import/menu_music.png-74aa84e525b93754ab403cec7f51d08b.stex" ]
+source_file="res://aux/assets/textures/ui/eden2/ui_text/menu_music.png"
+dest_files=[ "res://.import/menu_music.png-d3119d58d37dc296476d0b02ae0744dc.stex" ]
 
 [params]
 

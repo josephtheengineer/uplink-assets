@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/d_pad.png-197a3c054f975afe6c49fbf61aa9f5c9.stex"
+path="res://.import/d_pad.png-7f3004958d6614a0e7139456b4d71a82.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden2/iphone/d_pad.png"
-dest_files=[ "res://.import/d_pad.png-197a3c054f975afe6c49fbf61aa9f5c9.stex" ]
+source_file="res://aux/assets/textures/ui/eden2/iphone/d_pad.png"
+dest_files=[ "res://.import/d_pad.png-7f3004958d6614a0e7139456b4d71a82.stex" ]
 
 [params]
 

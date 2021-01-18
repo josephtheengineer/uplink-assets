@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ipad~paint_mask.png-7cd2a0cd89f1a5d01ae936186192bf3c.stex"
+path="res://.import/ipad~paint_mask.png-2f4fcac9a1cab3fd848084cb6095d802.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden2/ipad/toolbox/ipad~paint_mask.png"
-dest_files=[ "res://.import/ipad~paint_mask.png-7cd2a0cd89f1a5d01ae936186192bf3c.stex" ]
+source_file="res://aux/assets/textures/ui/eden2/ipad/toolbox/ipad~paint_mask.png"
+dest_files=[ "res://.import/ipad~paint_mask.png-2f4fcac9a1cab3fd848084cb6095d802.stex" ]
 
 [params]
 

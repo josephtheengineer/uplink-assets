@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/Green_Scared_3.ogg-4649d24135b0113d6cb5d4606caaec94.oggstr"
+path="res://.import/Green_Scared_3.ogg-92794fbefb11944de715203114f0d2ab.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/creatures/Green_Scared_3.ogg"
-dest_files=[ "res://.import/Green_Scared_3.ogg-4649d24135b0113d6cb5d4606caaec94.oggstr" ]
+source_file="res://aux/assets/sounds/creatures/Green_Scared_3.ogg"
+dest_files=[ "res://.import/Green_Scared_3.ogg-92794fbefb11944de715203114f0d2ab.oggstr" ]
 
 [params]
 

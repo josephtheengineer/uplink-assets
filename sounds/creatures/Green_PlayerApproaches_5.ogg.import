@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/Green_PlayerApproaches_5.ogg-ead2bf61541fed9ec95b41263901fdef.oggstr"
+path="res://.import/Green_PlayerApproaches_5.ogg-0661de03311eb0a8266dd2822de3bcc7.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/creatures/Green_PlayerApproaches_5.ogg"
-dest_files=[ "res://.import/Green_PlayerApproaches_5.ogg-ead2bf61541fed9ec95b41263901fdef.oggstr" ]
+source_file="res://aux/assets/sounds/creatures/Green_PlayerApproaches_5.ogg"
+dest_files=[ "res://.import/Green_PlayerApproaches_5.ogg-0661de03311eb0a8266dd2822de3bcc7.oggstr" ]
 
 [params]
 

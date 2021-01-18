@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Stumpy_Rage.png-58fef5473e1ddfaf876ed39835f9b438.stex"
+path="res://.import/Stumpy_Rage.png-c72263417a8459ec94f7011d671f6383.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/models/Stumpy_Rage.png"
-dest_files=[ "res://.import/Stumpy_Rage.png-58fef5473e1ddfaf876ed39835f9b438.stex" ]
+source_file="res://aux/assets/models/Stumpy_Rage.png"
+dest_files=[ "res://.import/Stumpy_Rage.png-c72263417a8459ec94f7011d671f6383.stex" ]
 
 [params]
 

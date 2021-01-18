@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/sky_color change_dark_to_light.ogg-f4375d217c1b1e173eb3e4e5dc7b9f06.oggstr"
+path="res://.import/sky_color change_dark_to_light.ogg-450631ce26a203474cb0c08f7c627117.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/new_sound/sky_color change_dark_to_light.ogg"
-dest_files=[ "res://.import/sky_color change_dark_to_light.ogg-f4375d217c1b1e173eb3e4e5dc7b9f06.oggstr" ]
+source_file="res://aux/assets/sounds/new_sound/sky_color change_dark_to_light.ogg"
+dest_files=[ "res://.import/sky_color change_dark_to_light.ogg-450631ce26a203474cb0c08f7c627117.oggstr" ]
 
 [params]
 

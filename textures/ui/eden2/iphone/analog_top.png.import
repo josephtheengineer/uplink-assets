@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/analog_top.png-24465c5ba2c5847ace9d7db3fa42f84d.stex"
+path="res://.import/analog_top.png-6292df960e0624d636c63073b86a1eb1.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden2/iphone/analog_top.png"
-dest_files=[ "res://.import/analog_top.png-24465c5ba2c5847ace9d7db3fa42f84d.stex" ]
+source_file="res://aux/assets/textures/ui/eden2/iphone/analog_top.png"
+dest_files=[ "res://.import/analog_top.png-6292df960e0624d636c63073b86a1eb1.stex" ]
 
 [params]
 

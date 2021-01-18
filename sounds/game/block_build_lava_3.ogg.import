@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/block_build_lava_3.ogg-6e27a4a55c7df9b8d01cb146fdeacd32.oggstr"
+path="res://.import/block_build_lava_3.ogg-f10efd4f955c8c7a1b94347782079115.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/game/block_build_lava_3.ogg"
-dest_files=[ "res://.import/block_build_lava_3.ogg-6e27a4a55c7df9b8d01cb146fdeacd32.oggstr" ]
+source_file="res://aux/assets/sounds/game/block_build_lava_3.ogg"
+dest_files=[ "res://.import/block_build_lava_3.ogg-f10efd4f955c8c7a1b94347782079115.oggstr" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ipad~quit.png-cf97614bc58471a4b91ee7b6214e875f.stex"
+path="res://.import/ipad~quit.png-3115e5be851b55729812fdb9a09f8513.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden2/ipad/windows/pause_window/ipad~quit.png"
-dest_files=[ "res://.import/ipad~quit.png-cf97614bc58471a4b91ee7b6214e875f.stex" ]
+source_file="res://aux/assets/textures/ui/eden2/ipad/windows/pause_window/ipad~quit.png"
+dest_files=[ "res://.import/ipad~quit.png-3115e5be851b55729812fdb9a09f8513.stex" ]
 
 [params]
 

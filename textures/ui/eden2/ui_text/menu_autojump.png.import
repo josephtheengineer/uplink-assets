@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/menu_autojump.png-1fa5bde02a8720eb750de151834818bc.stex"
+path="res://.import/menu_autojump.png-3b8b842ab082602fd861932b07c0808a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden2/ui_text/menu_autojump.png"
-dest_files=[ "res://.import/menu_autojump.png-1fa5bde02a8720eb750de151834818bc.stex" ]
+source_file="res://aux/assets/textures/ui/eden2/ui_text/menu_autojump.png"
+dest_files=[ "res://.import/menu_autojump.png-3b8b842ab082602fd861932b07c0808a.stex" ]
 
 [params]
 

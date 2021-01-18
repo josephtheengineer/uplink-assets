@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/eden4.ogg-84ed1c89616ba5be62bef7e457ab134d.oggstr"
+path="res://.import/eden4.ogg-85e1819c2782bbb8c4d933a6fc0cfa09.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/music/eden4.ogg"
-dest_files=[ "res://.import/eden4.ogg-84ed1c89616ba5be62bef7e457ab134d.oggstr" ]
+source_file="res://aux/assets/sounds/music/eden4.ogg"
+dest_files=[ "res://.import/eden4.ogg-85e1819c2782bbb8c4d933a6fc0cfa09.oggstr" ]
 
 [params]
 

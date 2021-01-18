@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/JosephTheEngineer Logo 2018 Engineer Edition v2 Transparent Round Invert Invert.png-85eb87044d34fc675f27c58998a7f8ba.stex"
+path="res://.import/JosephTheEngineer Logo 2018 Engineer Edition v2 Transparent Round Invert Invert.png-dac696ec43a948ac6a1651b87a2c6b27.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/icons/josephtheengineer/JosephTheEngineer Logo 2018 Engineer Edition v2 Transparent Round Invert Invert.png"
-dest_files=[ "res://.import/JosephTheEngineer Logo 2018 Engineer Edition v2 Transparent Round Invert Invert.png-85eb87044d34fc675f27c58998a7f8ba.stex" ]
+source_file="res://aux/assets/textures/ui/icons/josephtheengineer/JosephTheEngineer Logo 2018 Engineer Edition v2 Transparent Round Invert Invert.png"
+dest_files=[ "res://.import/JosephTheEngineer Logo 2018 Engineer Edition v2 Transparent Round Invert Invert.png-dac696ec43a948ac6a1651b87a2c6b27.stex" ]
 
 [params]
 

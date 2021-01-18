@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/250856__joshuaempyre__epic-orchestra-loop.ogg-ffb6b5fe618e9a139cb2c3e04f255eb1.oggstr"
+path="res://.import/250856__joshuaempyre__epic-orchestra-loop.ogg-30ddb50072d0b4ec6a884a5f5818de15.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/engineer/250856__joshuaempyre__epic-orchestra-loop.ogg"
-dest_files=[ "res://.import/250856__joshuaempyre__epic-orchestra-loop.ogg-ffb6b5fe618e9a139cb2c3e04f255eb1.oggstr" ]
+source_file="res://aux/assets/sounds/engineer/250856__joshuaempyre__epic-orchestra-loop.ogg"
+dest_files=[ "res://.import/250856__joshuaempyre__epic-orchestra-loop.ogg-30ddb50072d0b4ec6a884a5f5818de15.oggstr" ]
 
 [params]
 

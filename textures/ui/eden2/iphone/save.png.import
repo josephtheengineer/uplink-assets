@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/save.png-1817b12844a66c92d62e4830883a0a25.stex"
+path="res://.import/save.png-6098057dd1ac378c3f4d8b6ab18e64de.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden2/iphone/save.png"
-dest_files=[ "res://.import/save.png-1817b12844a66c92d62e4830883a0a25.stex" ]
+source_file="res://aux/assets/textures/ui/eden2/iphone/save.png"
+dest_files=[ "res://.import/save.png-6098057dd1ac378c3f4d8b6ab18e64de.stex" ]
 
 [params]
 

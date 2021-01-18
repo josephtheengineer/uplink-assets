@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/Moof_Stretching_2.ogg-9111220835d752083e11af2e0c4cd1c1.oggstr"
+path="res://.import/Moof_Stretching_2.ogg-c3d4e5e47b8b1bcdc630e83d5746e17d.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/creatures/Moof_Stretching_2.ogg"
-dest_files=[ "res://.import/Moof_Stretching_2.ogg-9111220835d752083e11af2e0c4cd1c1.oggstr" ]
+source_file="res://aux/assets/sounds/creatures/Moof_Stretching_2.ogg"
+dest_files=[ "res://.import/Moof_Stretching_2.ogg-c3d4e5e47b8b1bcdc630e83d5746e17d.oggstr" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/Moof_OnFire_2.ogg-ccc4dff2f82e92107f712abd69a81043.oggstr"
+path="res://.import/Moof_OnFire_2.ogg-aba5af05d8b843f61d33834787c48b05.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/creatures/Moof_OnFire_2.ogg"
-dest_files=[ "res://.import/Moof_OnFire_2.ogg-ccc4dff2f82e92107f712abd69a81043.oggstr" ]
+source_file="res://aux/assets/sounds/creatures/Moof_OnFire_2.ogg"
+dest_files=[ "res://.import/Moof_OnFire_2.ogg-aba5af05d8b843f61d33834787c48b05.oggstr" ]
 
 [params]
 

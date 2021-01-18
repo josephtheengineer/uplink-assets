@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ipad~pinwheel.png-14b604394e9a3597fbf86e4b38181fb9.stex"
+path="res://.import/ipad~pinwheel.png-0c627097b20b88fbf636a78f8b2ac9e8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden2/ipad/main_menu/background/ipad~pinwheel.png"
-dest_files=[ "res://.import/ipad~pinwheel.png-14b604394e9a3597fbf86e4b38181fb9.stex" ]
+source_file="res://aux/assets/textures/ui/eden2/ipad/main_menu/background/ipad~pinwheel.png"
+dest_files=[ "res://.import/ipad~pinwheel.png-0c627097b20b88fbf636a78f8b2ac9e8.stex" ]
 
 [params]
 

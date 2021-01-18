@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/trampoline_bounce_4_v2.ogg-f8b1ca06b6245945fff2f6058d522447.oggstr"
+path="res://.import/trampoline_bounce_4_v2.ogg-871b334fbb2b9a40c0dbf66e6ec580de.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/game/trampoline_bounce_4_v2.ogg"
-dest_files=[ "res://.import/trampoline_bounce_4_v2.ogg-f8b1ca06b6245945fff2f6058d522447.oggstr" ]
+source_file="res://aux/assets/sounds/game/trampoline_bounce_4_v2.ogg"
+dest_files=[ "res://.import/trampoline_bounce_4_v2.ogg-871b334fbb2b9a40c0dbf66e6ec580de.oggstr" ]
 
 [params]
 

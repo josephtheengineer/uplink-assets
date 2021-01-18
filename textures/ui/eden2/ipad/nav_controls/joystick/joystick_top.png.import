@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/joystick_top.png-04bdb4aaaeb82a3156594e18d390ef66.stex"
+path="res://.import/joystick_top.png-97b19aa5ee82227d298367223717da63.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden2/ipad/nav_controls/joystick/joystick_top.png"
-dest_files=[ "res://.import/joystick_top.png-04bdb4aaaeb82a3156594e18d390ef66.stex" ]
+source_file="res://aux/assets/textures/ui/eden2/ipad/nav_controls/joystick/joystick_top.png"
+dest_files=[ "res://.import/joystick_top.png-97b19aa5ee82227d298367223717da63.stex" ]
 
 [params]
 

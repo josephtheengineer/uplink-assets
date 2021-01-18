@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ground.png-00cc3674a866e4251cb3f536f84523b9.stex"
+path="res://.import/ground.png-2322b47a9fc6a7050619b4a0f6ba633c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden1/menu/ani_menu/ground.png"
-dest_files=[ "res://.import/ground.png-00cc3674a866e4251cb3f536f84523b9.stex" ]
+source_file="res://aux/assets/textures/ui/eden1/menu/ani_menu/ground.png"
+dest_files=[ "res://.import/ground.png-2322b47a9fc6a7050619b4a0f6ba633c.stex" ]
 
 [params]
 

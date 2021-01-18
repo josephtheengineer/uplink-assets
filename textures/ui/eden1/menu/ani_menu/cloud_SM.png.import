@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cloud_SM.png-4cd3c5e3053f7a754ce2a365be5357fa.stex"
+path="res://.import/cloud_SM.png-ded1ab719c73f832e36d3d56bf35816c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden1/menu/ani_menu/cloud_SM.png"
-dest_files=[ "res://.import/cloud_SM.png-4cd3c5e3053f7a754ce2a365be5357fa.stex" ]
+source_file="res://aux/assets/textures/ui/eden1/menu/ani_menu/cloud_SM.png"
+dest_files=[ "res://.import/cloud_SM.png-ded1ab719c73f832e36d3d56bf35816c.stex" ]
 
 [params]
 

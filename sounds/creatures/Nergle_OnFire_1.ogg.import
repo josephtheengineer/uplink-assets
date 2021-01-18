@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/Nergle_OnFire_1.ogg-95e962b680b805fe16291c0590e025d1.oggstr"
+path="res://.import/Nergle_OnFire_1.ogg-76f1288544a7f046eba5be07ca2b9f67.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/creatures/Nergle_OnFire_1.ogg"
-dest_files=[ "res://.import/Nergle_OnFire_1.ogg-95e962b680b805fe16291c0590e025d1.oggstr" ]
+source_file="res://aux/assets/sounds/creatures/Nergle_OnFire_1.ogg"
+dest_files=[ "res://.import/Nergle_OnFire_1.ogg-76f1288544a7f046eba5be07ca2b9f67.oggstr" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/bounce.ogg-48566b4f1dcb1e03845372805893822b.oggstr"
+path="res://.import/bounce.ogg-69aabeecaaff59c0879231600180d64e.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/bounce.ogg"
-dest_files=[ "res://.import/bounce.ogg-48566b4f1dcb1e03845372805893822b.oggstr" ]
+source_file="res://aux/assets/sounds/bounce.ogg"
+dest_files=[ "res://.import/bounce.ogg-69aabeecaaff59c0879231600180d64e.oggstr" ]
 
 [params]
 

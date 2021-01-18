@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Green_Rage.png-07c48ecec8a1bcf81d24ea7c56bb1e2e.stex"
+path="res://.import/Green_Rage.png-499e56b8d59b79d3ba087c4f38769d2f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/models/Green_Rage.png"
-dest_files=[ "res://.import/Green_Rage.png-07c48ecec8a1bcf81d24ea7c56bb1e2e.stex" ]
+source_file="res://aux/assets/models/Green_Rage.png"
+dest_files=[ "res://.import/Green_Rage.png-499e56b8d59b79d3ba087c4f38769d2f.stex" ]
 
 [params]
 

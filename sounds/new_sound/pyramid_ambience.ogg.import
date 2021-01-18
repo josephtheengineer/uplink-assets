@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/pyramid_ambience.ogg-feac1d6799c9b4a066b170352d5d37f1.oggstr"
+path="res://.import/pyramid_ambience.ogg-5b0fbc739cc809c2df895c6c4503873f.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/new_sound/pyramid_ambience.ogg"
-dest_files=[ "res://.import/pyramid_ambience.ogg-feac1d6799c9b4a066b170352d5d37f1.oggstr" ]
+source_file="res://aux/assets/sounds/new_sound/pyramid_ambience.ogg"
+dest_files=[ "res://.import/pyramid_ambience.ogg-5b0fbc739cc809c2df895c6c4503873f.oggstr" ]
 
 [params]
 

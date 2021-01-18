@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/block_background.png-c04257f0677cb8aa3fb8da46fe675a87.stex"
+path="res://.import/block_background.png-f4ec13a11f003a6fef65c7df633d332c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden1/block_background.png"
-dest_files=[ "res://.import/block_background.png-c04257f0677cb8aa3fb8da46fe675a87.stex" ]
+source_file="res://aux/assets/textures/ui/eden1/block_background.png"
+dest_files=[ "res://.import/block_background.png-f4ec13a11f003a6fef65c7df633d332c.stex" ]
 
 [params]
 

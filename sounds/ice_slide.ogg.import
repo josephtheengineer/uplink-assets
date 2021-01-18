@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/ice_slide.ogg-eddbb05c0771229d5df89781cdddb0d6.oggstr"
+path="res://.import/ice_slide.ogg-ef18fa8f4a367b940b186a3ad46aceb3.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/ice_slide.ogg"
-dest_files=[ "res://.import/ice_slide.ogg-eddbb05c0771229d5df89781cdddb0d6.oggstr" ]
+source_file="res://aux/assets/sounds/ice_slide.ogg"
+dest_files=[ "res://.import/ice_slide.ogg-ef18fa8f4a367b940b186a3ad46aceb3.oggstr" ]
 
 [params]
 

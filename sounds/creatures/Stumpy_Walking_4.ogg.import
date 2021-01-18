@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/Stumpy_Walking_4.ogg-7fd0e984535e1f992c9b0370050c93a3.oggstr"
+path="res://.import/Stumpy_Walking_4.ogg-85a21834e41ac447c52b190b9efbf7d0.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/creatures/Stumpy_Walking_4.ogg"
-dest_files=[ "res://.import/Stumpy_Walking_4.ogg-7fd0e984535e1f992c9b0370050c93a3.oggstr" ]
+source_file="res://aux/assets/sounds/creatures/Stumpy_Walking_4.ogg"
+dest_files=[ "res://.import/Stumpy_Walking_4.ogg-85a21834e41ac447c52b190b9efbf7d0.oggstr" ]
 
 [params]
 

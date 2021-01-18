@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/videogame-museum.webp-3e91a79d8c047327b865744c85a5e69c.stex"
+path="res://.import/videogame-museum.webp-53cffc94251b5f49621f382e1ee018c4.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/screenshots/videogame-museum.webp"
-dest_files=[ "res://.import/videogame-museum.webp-3e91a79d8c047327b865744c85a5e69c.stex" ]
+source_file="res://aux/assets/textures/ui/screenshots/videogame-museum.webp"
+dest_files=[ "res://.import/videogame-museum.webp-53cffc94251b5f49621f382e1ee018c4.stex" ]
 
 [params]
 

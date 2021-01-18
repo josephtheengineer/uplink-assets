@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/world_saved.ogg-972375f13898b43d1975d7e613df53e2.oggstr"
+path="res://.import/world_saved.ogg-105bf8c02d147dde97c3dcf513a537c2.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/new_sound/world_saved.ogg"
-dest_files=[ "res://.import/world_saved.ogg-972375f13898b43d1975d7e613df53e2.oggstr" ]
+source_file="res://aux/assets/sounds/new_sound/world_saved.ogg"
+dest_files=[ "res://.import/world_saved.ogg-105bf8c02d147dde97c3dcf513a537c2.oggstr" ]
 
 [params]
 

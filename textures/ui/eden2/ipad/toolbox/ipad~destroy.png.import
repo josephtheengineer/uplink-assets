@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ipad~destroy.png-d6cd19b88c3de7ec8eaa46f3db98b00a.stex"
+path="res://.import/ipad~destroy.png-aea56c8b39f2b855ced90ef4b63a5616.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden2/ipad/toolbox/ipad~destroy.png"
-dest_files=[ "res://.import/ipad~destroy.png-d6cd19b88c3de7ec8eaa46f3db98b00a.stex" ]
+source_file="res://aux/assets/textures/ui/eden2/ipad/toolbox/ipad~destroy.png"
+dest_files=[ "res://.import/ipad~destroy.png-aea56c8b39f2b855ced90ef4b63a5616.stex" ]
 
 [params]
 

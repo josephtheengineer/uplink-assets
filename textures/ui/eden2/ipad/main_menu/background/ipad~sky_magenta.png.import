@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ipad~sky_magenta.png-7db95f5cc313d46e82831fdca3d5c6f5.stex"
+path="res://.import/ipad~sky_magenta.png-11794482db8ab2bd09739ee13416fe05.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden2/ipad/main_menu/background/ipad~sky_magenta.png"
-dest_files=[ "res://.import/ipad~sky_magenta.png-7db95f5cc313d46e82831fdca3d5c6f5.stex" ]
+source_file="res://aux/assets/textures/ui/eden2/ipad/main_menu/background/ipad~sky_magenta.png"
+dest_files=[ "res://.import/ipad~sky_magenta.png-11794482db8ab2bd09739ee13416fe05.stex" ]
 
 [params]
 

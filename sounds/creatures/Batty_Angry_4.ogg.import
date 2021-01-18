@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/Batty_Angry_4.ogg-821137fd90b069c0abbaadb465dd3dad.oggstr"
+path="res://.import/Batty_Angry_4.ogg-5b9ae16a76f5831f39f163a213e98539.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/creatures/Batty_Angry_4.ogg"
-dest_files=[ "res://.import/Batty_Angry_4.ogg-821137fd90b069c0abbaadb465dd3dad.oggstr" ]
+source_file="res://aux/assets/sounds/creatures/Batty_Angry_4.ogg"
+dest_files=[ "res://.import/Batty_Angry_4.ogg-5b9ae16a76f5831f39f163a213e98539.oggstr" ]
 
 [params]
 

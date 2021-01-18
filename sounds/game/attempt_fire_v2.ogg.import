@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/attempt_fire_v2.ogg-c21caa5401be85e5b43d1c178a6b48c3.oggstr"
+path="res://.import/attempt_fire_v2.ogg-14cf85e2019d0b3225dff582d0014b16.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/game/attempt_fire_v2.ogg"
-dest_files=[ "res://.import/attempt_fire_v2.ogg-c21caa5401be85e5b43d1c178a6b48c3.oggstr" ]
+source_file="res://aux/assets/sounds/game/attempt_fire_v2.ogg"
+dest_files=[ "res://.import/attempt_fire_v2.ogg-14cf85e2019d0b3225dff582d0014b16.oggstr" ]
 
 [params]
 

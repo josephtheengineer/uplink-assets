@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/edenlogo.png-64bb93e7ebfda252e7136f9eba94516e.stex"
+path="res://.import/edenlogo.png-6a75d881caf1c45ddcf4575e1dddd416.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden2/iphone/edenlogo.png"
-dest_files=[ "res://.import/edenlogo.png-64bb93e7ebfda252e7136f9eba94516e.stex" ]
+source_file="res://aux/assets/textures/ui/eden2/iphone/edenlogo.png"
+dest_files=[ "res://.import/edenlogo.png-6a75d881caf1c45ddcf4575e1dddd416.stex" ]
 
 [params]
 

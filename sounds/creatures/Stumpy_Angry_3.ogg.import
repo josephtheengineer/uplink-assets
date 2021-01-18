@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/Stumpy_Angry_3.ogg-e0053cc3ae4afe6a5e03a5a1145a79cd.oggstr"
+path="res://.import/Stumpy_Angry_3.ogg-c07d3a8c99275c34d107e1b1833d7304.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/creatures/Stumpy_Angry_3.ogg"
-dest_files=[ "res://.import/Stumpy_Angry_3.ogg-e0053cc3ae4afe6a5e03a5a1145a79cd.oggstr" ]
+source_file="res://aux/assets/sounds/creatures/Stumpy_Angry_3.ogg"
+dest_files=[ "res://.import/Stumpy_Angry_3.ogg-c07d3a8c99275c34d107e1b1833d7304.oggstr" ]
 
 [params]
 

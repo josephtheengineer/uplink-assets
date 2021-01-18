@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/249985__werra__eerie-dark-drone-soundscape.ogg-e4900d7fced3fbf70a2a07cc85441df2.oggstr"
+path="res://.import/249985__werra__eerie-dark-drone-soundscape.ogg-bc27c4958fbd2c663eb23d6b3c7281bf.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/engineer/249985__werra__eerie-dark-drone-soundscape.ogg"
-dest_files=[ "res://.import/249985__werra__eerie-dark-drone-soundscape.ogg-e4900d7fced3fbf70a2a07cc85441df2.oggstr" ]
+source_file="res://aux/assets/sounds/engineer/249985__werra__eerie-dark-drone-soundscape.ogg"
+dest_files=[ "res://.import/249985__werra__eerie-dark-drone-soundscape.ogg-bc27c4958fbd2c663eb23d6b3c7281bf.oggstr" ]
 
 [params]
 

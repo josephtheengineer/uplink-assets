@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/jump_depressed.png-178631e7d2d9d394d43fa9a098b3e906.stex"
+path="res://.import/jump_depressed.png-d1f44d0d9f28c1af258c809a052498d8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden2/iphone/jump_depressed.png"
-dest_files=[ "res://.import/jump_depressed.png-178631e7d2d9d394d43fa9a098b3e906.stex" ]
+source_file="res://aux/assets/textures/ui/eden2/iphone/jump_depressed.png"
+dest_files=[ "res://.import/jump_depressed.png-d1f44d0d9f28c1af258c809a052498d8.stex" ]
 
 [params]
 

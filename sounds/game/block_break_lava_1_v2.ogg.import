@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/block_break_lava_1_v2.ogg-cb6f2369aa8cbfa6aeeaccc2e027af7c.oggstr"
+path="res://.import/block_break_lava_1_v2.ogg-9d8735a532fe8b2a4aaba21a5dcb2100.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/game/block_break_lava_1_v2.ogg"
-dest_files=[ "res://.import/block_break_lava_1_v2.ogg-cb6f2369aa8cbfa6aeeaccc2e027af7c.oggstr" ]
+source_file="res://aux/assets/sounds/game/block_break_lava_1_v2.ogg"
+dest_files=[ "res://.import/block_break_lava_1_v2.ogg-9d8735a532fe8b2a4aaba21a5dcb2100.oggstr" ]
 
 [params]
 

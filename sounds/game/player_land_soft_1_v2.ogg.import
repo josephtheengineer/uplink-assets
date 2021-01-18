@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/player_land_soft_1_v2.ogg-48bbc726e56bb63d4df2f0e37ef012bf.oggstr"
+path="res://.import/player_land_soft_1_v2.ogg-bf9f7d92181f1e7e084444aed9b204cf.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/game/player_land_soft_1_v2.ogg"
-dest_files=[ "res://.import/player_land_soft_1_v2.ogg-48bbc726e56bb63d4df2f0e37ef012bf.oggstr" ]
+source_file="res://aux/assets/sounds/game/player_land_soft_1_v2.ogg"
+dest_files=[ "res://.import/player_land_soft_1_v2.ogg-bf9f7d92181f1e7e084444aed9b204cf.oggstr" ]
 
 [params]
 

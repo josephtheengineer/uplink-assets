@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Batty_Default.png-780ae448163f289c622a0c5926aaa79f.stex"
+path="res://.import/Batty_Default.png-7d08fdc9eb564a214eaa087ace710003.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/models/Batty_Default.png"
-dest_files=[ "res://.import/Batty_Default.png-780ae448163f289c622a0c5926aaa79f.stex" ]
+source_file="res://aux/assets/models/Batty_Default.png"
+dest_files=[ "res://.import/Batty_Default.png-7d08fdc9eb564a214eaa087ace710003.stex" ]
 
 [params]
 

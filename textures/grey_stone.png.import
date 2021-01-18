@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/grey_stone.png-05844b8f7faba912d614abe1876d4580.stex"
+path="res://.import/grey_stone.png-db7e8d9af09d6a159aa4738d2eb69707.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/grey_stone.png"
-dest_files=[ "res://.import/grey_stone.png-05844b8f7faba912d614abe1876d4580.stex" ]
+source_file="res://aux/assets/textures/grey_stone.png"
+dest_files=[ "res://.import/grey_stone.png-db7e8d9af09d6a159aa4738d2eb69707.stex" ]
 
 [params]
 

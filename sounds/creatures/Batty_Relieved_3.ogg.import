@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/Batty_Relieved_3.ogg-66e1531242a15c882ee4d2b53d9ce73f.oggstr"
+path="res://.import/Batty_Relieved_3.ogg-bc404803ce4ac97b2a4e7eca2b585e3f.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/creatures/Batty_Relieved_3.ogg"
-dest_files=[ "res://.import/Batty_Relieved_3.ogg-66e1531242a15c882ee4d2b53d9ce73f.oggstr" ]
+source_file="res://aux/assets/sounds/creatures/Batty_Relieved_3.ogg"
+dest_files=[ "res://.import/Batty_Relieved_3.ogg-bc404803ce4ac97b2a4e7eca2b585e3f.oggstr" ]
 
 [params]
 

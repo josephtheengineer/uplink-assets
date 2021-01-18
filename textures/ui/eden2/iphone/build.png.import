@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/build.png-c0ba1a024e9d879359ea1e636ace8060.stex"
+path="res://.import/build.png-d054b87db8032cbe92917d6261dd036d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden2/iphone/build.png"
-dest_files=[ "res://.import/build.png-c0ba1a024e9d879359ea1e636ace8060.stex" ]
+source_file="res://aux/assets/textures/ui/eden2/iphone/build.png"
+dest_files=[ "res://.import/build.png-d054b87db8032cbe92917d6261dd036d.stex" ]
 
 [params]
 

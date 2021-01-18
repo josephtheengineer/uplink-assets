@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/Stumpy_Idle_5.ogg-fabc087dd1458d56d7903dce48de8537.oggstr"
+path="res://.import/Stumpy_Idle_5.ogg-6c747bb79b3f4bd4f887479bcc5dbaac.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/creatures/Stumpy_Idle_5.ogg"
-dest_files=[ "res://.import/Stumpy_Idle_5.ogg-fabc087dd1458d56d7903dce48de8537.oggstr" ]
+source_file="res://aux/assets/sounds/creatures/Stumpy_Idle_5.ogg"
+dest_files=[ "res://.import/Stumpy_Idle_5.ogg-6c747bb79b3f4bd4f887479bcc5dbaac.oggstr" ]
 
 [params]
 

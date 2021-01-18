@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/blue_glass.png-ba1d712830162d03d442627a4359213e.stex"
+path="res://.import/blue_glass.png-0f1847c485e186d9beab6d0dae0b22a1.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/blue_glass.png"
-dest_files=[ "res://.import/blue_glass.png-ba1d712830162d03d442627a4359213e.stex" ]
+source_file="res://aux/assets/textures/blue_glass.png"
+dest_files=[ "res://.import/blue_glass.png-0f1847c485e186d9beab6d0dae0b22a1.stex" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/Batty_Excited_2.ogg-af4edd5ae6cf98c07aeaf5e542fa6b5a.oggstr"
+path="res://.import/Batty_Excited_2.ogg-548b5957a40c524a8eda35097b824c41.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/creatures/Batty_Excited_2.ogg"
-dest_files=[ "res://.import/Batty_Excited_2.ogg-af4edd5ae6cf98c07aeaf5e542fa6b5a.oggstr" ]
+source_file="res://aux/assets/sounds/creatures/Batty_Excited_2.ogg"
+dest_files=[ "res://.import/Batty_Excited_2.ogg-548b5957a40c524a8eda35097b824c41.oggstr" ]
 
 [params]
 

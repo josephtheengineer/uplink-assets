@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/leaves_yellow.png-253749c82260fa1341d38f516800f475.stex"
+path="res://.import/leaves_yellow.png-5548348511ad70828cb19f0fdc0b6f0b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/leaves_yellow.png"
-dest_files=[ "res://.import/leaves_yellow.png-253749c82260fa1341d38f516800f475.stex" ]
+source_file="res://aux/assets/textures/leaves_yellow.png"
+dest_files=[ "res://.import/leaves_yellow.png-5548348511ad70828cb19f0fdc0b6f0b.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Green_Blink.png-49b30bb9edacc9e90afa19fd5c26eabc.stex"
+path="res://.import/Green_Blink.png-31ce04dd8541c441b802ee2a10d3f17b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/models/Green_Blink.png"
-dest_files=[ "res://.import/Green_Blink.png-49b30bb9edacc9e90afa19fd5c26eabc.stex" ]
+source_file="res://aux/assets/models/Green_Blink.png"
+dest_files=[ "res://.import/Green_Blink.png-31ce04dd8541c441b802ee2a10d3f17b.stex" ]
 
 [params]
 

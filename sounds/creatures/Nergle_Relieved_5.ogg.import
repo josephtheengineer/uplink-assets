@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/Nergle_Relieved_5.ogg-2ce82967a271a53a971b68a1af2ad058.oggstr"
+path="res://.import/Nergle_Relieved_5.ogg-66d003ee7760e36da64eb8b8c1a45432.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/creatures/Nergle_Relieved_5.ogg"
-dest_files=[ "res://.import/Nergle_Relieved_5.ogg-2ce82967a271a53a971b68a1af2ad058.oggstr" ]
+source_file="res://aux/assets/sounds/creatures/Nergle_Relieved_5.ogg"
+dest_files=[ "res://.import/Nergle_Relieved_5.ogg-66d003ee7760e36da64eb8b8c1a45432.oggstr" ]
 
 [params]
 

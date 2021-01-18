@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/Batty_Scared_5.ogg-fc193d528667b6b15f60911cafbd64c7.oggstr"
+path="res://.import/Batty_Scared_5.ogg-da21ab6851173a362b96aff4690f25f3.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/creatures/Batty_Scared_5.ogg"
-dest_files=[ "res://.import/Batty_Scared_5.ogg-fc193d528667b6b15f60911cafbd64c7.oggstr" ]
+source_file="res://aux/assets/sounds/creatures/Batty_Scared_5.ogg"
+dest_files=[ "res://.import/Batty_Scared_5.ogg-da21ab6851173a362b96aff4690f25f3.oggstr" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/menu_invert_camera.png-b890413475479f71d88a6c30ee54de37.stex"
+path="res://.import/menu_invert_camera.png-fec53a4200d058b289ab9a148dd65c9e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden2/ui_text/menu_invert_camera.png"
-dest_files=[ "res://.import/menu_invert_camera.png-b890413475479f71d88a6c30ee54de37.stex" ]
+source_file="res://aux/assets/textures/ui/eden2/ui_text/menu_invert_camera.png"
+dest_files=[ "res://.import/menu_invert_camera.png-fec53a4200d058b289ab9a148dd65c9e.stex" ]
 
 [params]
 

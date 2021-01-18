@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/Green_OnFire_4.ogg-9250c810cbb4bb1c80ad7af2201593bf.oggstr"
+path="res://.import/Green_OnFire_4.ogg-7d3dd304b85015f18be9cbfee9621ab9.oggstr"
 
 [deps]
 
-source_file="res://assets/sounds/creatures/Green_OnFire_4.ogg"
-dest_files=[ "res://.import/Green_OnFire_4.ogg-9250c810cbb4bb1c80ad7af2201593bf.oggstr" ]
+source_file="res://aux/assets/sounds/creatures/Green_OnFire_4.ogg"
+dest_files=[ "res://.import/Green_OnFire_4.ogg-7d3dd304b85015f18be9cbfee9621ab9.oggstr" ]
 
 [params]
 

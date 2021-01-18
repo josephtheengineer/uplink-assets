@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/sky.png-f655b6aae4af9ac86341a0abb63b9006.stex"
+path="res://.import/sky.png-06547007ed870e8477435f048a9f89e5.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden1/menu/ani_menu/sky.png"
-dest_files=[ "res://.import/sky.png-f655b6aae4af9ac86341a0abb63b9006.stex" ]
+source_file="res://aux/assets/textures/ui/eden1/menu/ani_menu/sky.png"
+dest_files=[ "res://.import/sky.png-06547007ed870e8477435f048a9f89e5.stex" ]
 
 [params]
 

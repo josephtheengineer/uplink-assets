@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/color_border.png-19b63f1db1279c950786861042b60f39.stex"
+path="res://.import/color_border.png-fb3f1a1ced4703e03aab9f236398504c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/ui/eden2/iphone/color_border.png"
-dest_files=[ "res://.import/color_border.png-19b63f1db1279c950786861042b60f39.stex" ]
+source_file="res://aux/assets/textures/ui/eden2/iphone/color_border.png"
+dest_files=[ "res://.import/color_border.png-fb3f1a1ced4703e03aab9f236398504c.stex" ]
 
 [params]
 
